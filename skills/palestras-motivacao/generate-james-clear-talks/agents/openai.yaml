@@ -1,0 +1,4 @@
+interface:
+  display_name: "James Clear Talks"
+  short_description: "Create formatted Word talks in James Clear's Atomic Habits methodology"
+  default_prompt: "Create a formatted Word talk using James Clear's behavioral science methodology."

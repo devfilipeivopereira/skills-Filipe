@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sermon Batch Hub"
+  short_description: "Generate one, several, or all preacher sermon styles"
+  default_prompt: "Generate the same biblical reference in one, several, or all installed preacher sermon styles."

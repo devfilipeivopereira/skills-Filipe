@@ -1,0 +1,4 @@
+interface:
+  display_name: "Les Brown Talks"
+  short_description: "Create formatted Word motivational talks"
+  default_prompt: "Create a formatted Word motivational talk using Les Brown's hunger-and-possibility methodology."

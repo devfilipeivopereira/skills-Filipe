@@ -1,0 +1,4 @@
+interface:
+  display_name: "Simon Sinek Talks"
+  short_description: "Create formatted Word motivational talks"
+  default_prompt: "Create a formatted Word talk using Simon Sinek's Golden Circle methodology."

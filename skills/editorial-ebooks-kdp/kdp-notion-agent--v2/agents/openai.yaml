@@ -1,0 +1,7 @@
+interface:
+  display_name: "KDP Notion Agent"
+  short_description: "Fluxo editorial Notion para KDP"
+  default_prompt: "Use $kdp-notion-agent para transformar uma transcrição de sermão do Notion em um ebook KDP fiel, revisado e pronto para upload como rascunho. Preserve sempre acentos e caracteres especiais reais do PT-BR em Unicode/UTF-8; nunca translitere palavras como 'não', 'sermão', 'capítulo', 'introdução', 'conclusão', 'você' ou 'coração'. Trabalhe com economia de tokens, escolha autonomamente o melhor modelo por etapa e orquestre o fluxo no Codex com subagentes fixos por etapa. O agente principal deve apenas preparar, delegar, integrar e validar; a execução editorial deve seguir a policy em references/model-routing-policy.json e o plano em 15_codex_orchestration.json."
+
+policy:
+  allow_implicit_invocation: true

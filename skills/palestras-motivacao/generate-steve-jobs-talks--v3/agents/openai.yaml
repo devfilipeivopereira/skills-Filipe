@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steve Jobs Talks"
+  short_description: "Create formatted Word talks in Steve Jobs's Stanford or Keynote communication methodology"
+  default_prompt: "Create a formatted Word talk using Steve Jobs's communication methodology — Stanford Mode (three stories) or Keynote Mode (villain-hero, Rule of Three, One More Thing)."

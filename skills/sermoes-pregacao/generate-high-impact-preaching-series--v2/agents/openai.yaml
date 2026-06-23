@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preaching Series Creator"
+  short_description: "Create high-impact preaching series in Word"
+  default_prompt: "Create a high-impact preaching series plan from a church context, theme, or calendar moment."

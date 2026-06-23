@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bob Smiley Messages"
+  short_description: "Prepare Bob Smiley style messages in Word"
+  default_prompt: "Prepare a Bob Smiley style message from a real-life story, audience, or biblical theme."

@@ -1,0 +1,4 @@
+.tmp-skill-build/
+*.tmp
+Thumbs.db
+.DS_Store

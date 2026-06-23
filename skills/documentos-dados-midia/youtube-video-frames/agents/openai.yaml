@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Video Frames"
+  short_description: "Extrai frames HD de videos do YouTube"
+  default_prompt: "Cole um link do YouTube para baixar o video e salvar centenas de frames em alta qualidade em uma pasta local."

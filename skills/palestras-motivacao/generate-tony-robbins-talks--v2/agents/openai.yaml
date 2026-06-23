@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tony Robbins Talks"
+  short_description: "Create formatted Word motivational talks"
+  default_prompt: "Create a formatted Word motivational talk using Tony Robbins's peak-state methodology."

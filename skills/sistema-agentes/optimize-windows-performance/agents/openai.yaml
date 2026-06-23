@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimize Windows Performance"
+  short_description: "Auditoria e otimização segura do Windows"
+  default_prompt: "Use $optimize-windows-performance to audit and optimize this Windows PC safely."

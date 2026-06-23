@@ -1,0 +1,4 @@
+interface:
+  display_name: "John C. Maxwell Talks"
+  short_description: "Create formatted Word leadership talks in John C. Maxwell's style"
+  default_prompt: "Create a formatted Word motivational talk using John C. Maxwell's leadership methodology."

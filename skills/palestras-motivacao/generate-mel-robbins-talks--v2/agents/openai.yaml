@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mel Robbins Talks"
+  short_description: "Create formatted Word motivational talks"
+  default_prompt: "Create a formatted Word talk using Mel Robbins's Five Second Rule behavioral methodology."

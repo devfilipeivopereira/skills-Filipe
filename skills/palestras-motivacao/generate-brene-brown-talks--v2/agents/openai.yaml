@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brené Brown Talks"
+  short_description: "Create formatted Word motivational talks"
+  default_prompt: "Create a formatted Word talk using Brené Brown's vulnerability and courage research method."

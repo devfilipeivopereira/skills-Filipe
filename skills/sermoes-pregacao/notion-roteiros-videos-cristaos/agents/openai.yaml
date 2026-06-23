@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roteiros Cristaos Notion"
+  short_description: "Gera lotes de roteiros cristãos no Notion"
+  default_prompt: "Use $notion-roteiros-videos-cristaos para criar cinco novas ideias de roteiros cristãos no banco do Notion."

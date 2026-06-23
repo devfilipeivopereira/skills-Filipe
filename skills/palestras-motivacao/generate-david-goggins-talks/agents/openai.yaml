@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Goggins Talks"
+  short_description: "Create formatted Word mental toughness talks in David Goggins's style"
+  default_prompt: "Create a formatted Word talk using David Goggins's mental toughness and anti-motivation methodology."

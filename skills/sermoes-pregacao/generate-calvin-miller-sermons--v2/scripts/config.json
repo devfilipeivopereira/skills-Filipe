@@ -1,0 +1,25 @@
+{
+  "defaults": {
+    "min_words_full_sermon": 7500
+  },
+  "document": {
+    "footer_text": "Gerado com a skill generate-calvin-miller-sermons",
+    "fonts": {
+      "body": "Calibri",
+      "title": "Cambria",
+      "heading": "Cambria"
+    },
+    "font_sizes_pt": {
+      "body": 12,
+      "title": 20,
+      "heading1": 16,
+      "heading2": 13
+    },
+    "margins_pt": {
+      "top": 72,
+      "right": 72,
+      "bottom": 72,
+      "left": 72
+    }
+  }
+}

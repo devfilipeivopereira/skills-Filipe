@@ -1,0 +1,4 @@
+interface:
+  display_name: "Robin Sharma Talks"
+  short_description: "Create formatted Word talks in Robin Sharma's personal mastery methodology"
+  default_prompt: "Create a formatted Word talk using Robin Sharma's 5 AM Club and leadership mastery methodology."

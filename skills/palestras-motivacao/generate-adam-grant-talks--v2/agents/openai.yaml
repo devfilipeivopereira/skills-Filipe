@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adam Grant Talks"
+  short_description: "Create formatted Word talks in Adam Grant's organizational psychology methodology"
+  default_prompt: "Create a formatted Word talk using Adam Grant's rethinking methodology."

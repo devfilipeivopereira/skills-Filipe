@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fred Craddock Sermons"
+  short_description: "Create formatted Word sermons"
+  default_prompt: "Create a formatted Word sermon from a Bible text or theme."

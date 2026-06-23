@@ -1,0 +1,25 @@
+{
+  "defaults": {
+    "min_words_full_lecture": 5000
+  },
+  "document": {
+    "footer_text": "Gerado com a skill generate-motivational-lectures",
+    "fonts": {
+      "body": "Calibri",
+      "title": "Cambria",
+      "heading": "Cambria"
+    },
+    "font_sizes_pt": {
+      "body": 12,
+      "title": 22,
+      "heading1": 17,
+      "heading2": 14
+    },
+    "margins_pt": {
+      "top": 72,
+      "right": 72,
+      "bottom": 72,
+      "left": 72
+    }
+  }
+}

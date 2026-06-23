@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jordan Peterson Talks"
+  short_description: "Create formatted Word talks in Jordan Peterson's clinical psychology and depth-philosophy methodology"
+  default_prompt: "Create a formatted Word talk using Jordan Peterson's 12 Rules for Life methodology on meaning, responsibility, and suffering."

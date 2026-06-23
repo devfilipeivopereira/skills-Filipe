@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todos os Pregadores"
+  short_description: "Geracao em lote de sermoes e palestras."
+  default_prompt: "Use $todos-os-pregadores para gerar todos os estilos de pregadores e palestrantes em arquivos Markdown e empacotar o resultado em ZIP."

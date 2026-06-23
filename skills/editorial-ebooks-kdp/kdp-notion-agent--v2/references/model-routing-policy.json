@@ -1,0 +1,84 @@
+{
+  "version": "2.0",
+  "stage_order": [
+    "transcription_correction",
+    "sermon_summary",
+    "book_blueprint",
+    "chapter_writing",
+    "chapter_revision",
+    "framing_sections",
+    "final_critique",
+    "cta_subagent",
+    "metadata_kdp",
+    "landing_page",
+    "bonus_asset"
+  ],
+  "stages": {
+    "transcription_correction": {
+      "model": "gpt-5.2-codex",
+      "reasoning_effort": "high",
+      "execution_mode": "subagent",
+      "justification": "Etapa de alta fidelidade textual e discernimento semantico; economizar aqui reduz a qualidade da fonte."
+    },
+    "sermon_summary": {
+      "model": "gpt-5.2",
+      "reasoning_effort": "medium",
+      "execution_mode": "subagent",
+      "justification": "Exige sintese fiel, mas com escopo menor e artefato curto."
+    },
+    "book_blueprint": {
+      "model": "gpt-5.2-codex",
+      "reasoning_effort": "high",
+      "execution_mode": "subagent",
+      "justification": "Define promessa, arco e limites do livro; erro aqui contamina todas as etapas seguintes."
+    },
+    "chapter_writing": {
+      "model": "gpt-5.2-codex",
+      "reasoning_effort": "medium",
+      "execution_mode": "subagent",
+      "justification": "Precisa de alta qualidade de prosa, mas trabalha com packet enxuto por capitulo."
+    },
+    "chapter_revision": {
+      "model": "gpt-5.2-codex",
+      "reasoning_effort": "medium",
+      "execution_mode": "subagent",
+      "justification": "Reescrita dirigida por problemas especificos, sem reabrir o livro inteiro."
+    },
+    "framing_sections": {
+      "model": "gpt-5.2-codex",
+      "reasoning_effort": "high",
+      "execution_mode": "subagent",
+      "justification": "Prefacio, introducao e conclusao devem ser escritos por ultimo para refletir o livro completo com mais profundidade."
+    },
+    "final_critique": {
+      "model": "gpt-5.2-codex",
+      "reasoning_effort": "high",
+      "execution_mode": "subagent",
+      "justification": "Gate editorial final com alto risco de repeticao, divagacao e perda de fidelidade."
+    },
+    "cta_subagent": {
+      "model": "gpt-5.2",
+      "reasoning_effort": "medium",
+      "execution_mode": "subagent",
+      "justification": "Curadoria comercial discreta e estruturada, baseada em briefing curto."
+    },
+    "metadata_kdp": {
+      "model": "gpt-5.2",
+      "reasoning_effort": "low",
+      "execution_mode": "subagent",
+      "justification": "Empacotamento e estruturacao; baixo risco editorial."
+    },
+    "landing_page": {
+      "model": "gpt-5.2",
+      "reasoning_effort": "low",
+      "execution_mode": "subagent",
+      "justification": "Texto comercial derivado da promessa do ebook, sem necessidade de contexto longo."
+    },
+    "bonus_asset": {
+      "model": "gpt-5.2",
+      "reasoning_effort": "medium",
+      "execution_mode": "subagent",
+      "justification": "Precisa de coerencia tematica, mas com escopo curto e controlado."
+    }
+  }
+}

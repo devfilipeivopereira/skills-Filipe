@@ -1,0 +1,7 @@
+interface:
+  display_name: "KDP Cover Agent"
+  short_description: "Capas KDP best seller em pasta local"
+  default_prompt: "Use $kdp-cover-agent para preparar e salvar uma capa com linguagem de best seller para o ebook do workspace atual em C:\\Users\\filip\\DEV\\capas."
+
+policy:
+  allow_implicit_invocation: true

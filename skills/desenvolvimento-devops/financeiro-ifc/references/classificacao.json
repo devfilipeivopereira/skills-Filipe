@@ -1,0 +1,347 @@
+{
+ "001": [
+  "Receita",
+  "Entradas",
+  "Dízimos"
+ ],
+ "002": [
+  "Receita",
+  "Entradas",
+  "Ofertas"
+ ],
+ "003": [
+  "Receita",
+  "Entradas",
+  "Inscrições de Retiros e Eventos"
+ ],
+ "004": [
+  "Receita",
+  "Entradas",
+  "Outras Entradas"
+ ],
+ "101": [
+  "Despesa",
+  "Pessoal",
+  "Pastor Odair Blume"
+ ],
+ "102": [
+  "Despesa",
+  "Pessoal",
+  "Serviços de Limpeza"
+ ],
+ "103": [
+  "Despesa",
+  "Pessoal",
+  "FGTM - Pr. Filipe Ivo Pereira"
+ ],
+ "104": [
+  "Despesa",
+  "Pessoal",
+  "Pastor Filipe Ivo Pereira"
+ ],
+ "105": [
+  "Despesa",
+  "Pessoal",
+  "Encargos Sociais (INSS, FGTS, PIS)"
+ ],
+ "106": [
+  "Despesa",
+  "Pessoal",
+  "Secretária IFC"
+ ],
+ "201": [
+  "Despesa",
+  "Missões",
+  "Missão Local"
+ ],
+ "203": [
+  "Despesa",
+  "Missões",
+  "Missionários Marcio e Keila - Missão do Céu"
+ ],
+ "204": [
+  "Despesa",
+  "Missões",
+  "Missionários COBIM SC"
+ ],
+ "205": [
+  "Despesa",
+  "Missões",
+  "Missão Projeto Espanha - Ramon e Ana"
+ ],
+ "206": [
+  "Despesa",
+  "Missões",
+  "Outras Ofertas Missionárias"
+ ],
+ "207": [
+  "Despesa",
+  "Missões",
+  "Agência Missionária"
+ ],
+ "301": [
+  "Despesa",
+  "Ministérios",
+  "Ministério Pastoral"
+ ],
+ "302": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Células"
+ ],
+ "303": [
+  "Despesa",
+  "Ministérios",
+  "Ministério Infantil"
+ ],
+ "304": [
+  "Despesa",
+  "Ministérios",
+  "Ministério dos Adolescentes"
+ ],
+ "305": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Jovens"
+ ],
+ "306": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Louvor"
+ ],
+ "307": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Esportes"
+ ],
+ "308": [
+  "Despesa",
+  "Ministérios",
+  "Ministério Teatro"
+ ],
+ "309": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Homens"
+ ],
+ "310": [
+  "Despesa",
+  "Ministérios",
+  "Ministério Ação Social"
+ ],
+ "311": [
+  "Despesa",
+  "Ministérios",
+  "Atividades de Culto"
+ ],
+ "312": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Dança"
+ ],
+ "313": [
+  "Despesa",
+  "Ministérios",
+  "Materiais Impressos Discipulado"
+ ],
+ "314": [
+  "Despesa",
+  "Ministérios",
+  "Treinamento de Líderes"
+ ],
+ "315": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Mulheres"
+ ],
+ "316": [
+  "Despesa",
+  "Ministérios",
+  "Gastos Viagens e Transporte"
+ ],
+ "317": [
+  "Despesa",
+  "Ministérios",
+  "Ministério de Casais"
+ ],
+ "318": [
+  "Despesa",
+  "Ministérios",
+  "Retiros/Almoços/Encontros/Jantares/Eventos"
+ ],
+ "319": [
+  "Despesa",
+  "Ministérios",
+  "Outros"
+ ],
+ "401": [
+  "Despesa",
+  "Despesas Gerais",
+  "Água"
+ ],
+ "402": [
+  "Despesa",
+  "Despesas Gerais",
+  "Energia Elétrica"
+ ],
+ "403": [
+  "Despesa",
+  "Despesas Gerais",
+  "Telefone (Fixo/Celular)"
+ ],
+ "404": [
+  "Despesa",
+  "Despesas Gerais",
+  "Material de escritório"
+ ],
+ "405": [
+  "Despesa",
+  "Despesas Gerais",
+  "Material de Higiene e limpeza"
+ ],
+ "406": [
+  "Despesa",
+  "Despesas Gerais",
+  "Material de Consumo"
+ ],
+ "407": [
+  "Despesa",
+  "Despesas Gerais",
+  "Cópias e Impressões"
+ ],
+ "408": [
+  "Despesa",
+  "Despesas Gerais",
+  "Publicidade e Propaganda"
+ ],
+ "409": [
+  "Despesa",
+  "Despesas Gerais",
+  "Aluguéis"
+ ],
+ "410": [
+  "Despesa",
+  "Despesas Gerais",
+  "Serviços de Terceiros PF"
+ ],
+ "411": [
+  "Despesa",
+  "Despesas Gerais",
+  "Serviços de Terceiros PJ"
+ ],
+ "412": [
+  "Despesa",
+  "Despesas Gerais",
+  "Vigilância Eletrônica"
+ ],
+ "413": [
+  "Despesa",
+  "Despesas Gerais",
+  "Impostos e Taxas"
+ ],
+ "414": [
+  "Despesa",
+  "Despesas Gerais",
+  "Financeiras/Bancárias"
+ ],
+ "415": [
+  "Despesa",
+  "Despesas Gerais",
+  "Outros"
+ ],
+ "501": [
+  "Despesa",
+  "Capacitação",
+  "Mensalidades de curso"
+ ],
+ "502": [
+  "Despesa",
+  "Capacitação",
+  "Inscrição em eventos"
+ ],
+ "503": [
+  "Despesa",
+  "Capacitação",
+  "Gastos Viagens e Transporte"
+ ],
+ "504": [
+  "Despesa",
+  "Capacitação",
+  "Outros"
+ ],
+ "601": [
+  "Despesa",
+  "Manutenção",
+  "Material de Manutenção"
+ ],
+ "602": [
+  "Despesa",
+  "Manutenção",
+  "Serviços de consertos e reparos"
+ ],
+ "603": [
+  "Despesa",
+  "Manutenção",
+  "Outros"
+ ],
+ "701": [
+  "Despesa",
+  "Patrimônio",
+  "Aquisição de equipamentos"
+ ],
+ "702": [
+  "Despesa",
+  "Patrimônio",
+  "Aquisição de mobiliário"
+ ],
+ "703": [
+  "Despesa",
+  "Patrimônio",
+  "Aquisição de Instrumentos musicais"
+ ],
+ "704": [
+  "Despesa",
+  "Patrimônio",
+  "Outros"
+ ],
+ "801": [
+  "Despesa",
+  "Denominação",
+  "COBIM - Contribuição Associativa"
+ ],
+ "802": [
+  "Despesa",
+  "Denominação",
+  "Contrib. Acamp. Nova Vida"
+ ],
+ "803": [
+  "Despesa",
+  "Denominação",
+  "Gastos Viagens e Transporte"
+ ],
+ "804": [
+  "Despesa",
+  "Denominação",
+  "Outras Contribuições"
+ ],
+ "805": [
+  "Despesa",
+  "Denominação",
+  "Taxa de Membros - COBIM"
+ ],
+ "901": [
+  "Neutra",
+  "Movimentação Bancária",
+  "Transferência Entre Contas Cresol"
+ ],
+ "902": [
+  "Neutra",
+  "Movimentação Bancária",
+  "Resgate Aplicação"
+ ],
+ "903": [
+  "Neutra",
+  "Movimentação Bancária",
+  "Aplicação Financeira"
+ ]
+}

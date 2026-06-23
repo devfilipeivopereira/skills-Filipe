@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coletar Sermoes Gerados"
+  short_description: "Copia DOCX das skills generate-*"
+  default_prompt: "Use $collect-generated-sermons para copiar os arquivos .docx das skills generate-* para a pasta Sermoes_Gerados_Codex na area de trabalho."

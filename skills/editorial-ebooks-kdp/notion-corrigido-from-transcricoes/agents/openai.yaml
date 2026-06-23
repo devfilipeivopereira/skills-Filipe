@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notion Corrigir Transcricoes"
+  short_description: "Corrige TXT e grava em Corrigido"
+  default_prompt: "Use esta skill para ler o arquivo .txt da coluna Transcrições no Notion, corrigir o texto em português preservando a pregação e salvar o resultado na coluna Corrigido com nome iniciado por underscore."

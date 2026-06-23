@@ -1,0 +1,4 @@
+interface:
+  display_name: "Notion Ebook Corrigido"
+  short_description: "Transforma corrigido em ebook no Notion"
+  default_prompt: "Use esta skill para ler a coluna corrigido do Notion, filtrar apenas a pregação, escrever um ebook conversacional de cerca de 10.000 palavras em pt-BR com referências bíblicas em NVI e salvar o resultado na coluna ebook."
