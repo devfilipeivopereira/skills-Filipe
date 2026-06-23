@@ -1,0 +1,288 @@
+# generate-steve-jobs-talks
+
+- Categoria: **Palestras e Motivacao** (`palestras-motivacao`)
+- Nome declarado: `generate-steve-jobs-talks`
+- Pacote instalavel: `packages/palestras-motivacao/generate-steve-jobs-talks.zip`
+- Pasta copiada: `skills/palestras-motivacao/generate-steve-jobs-talks`
+- Fonte original: `C:\Users\filip\.codex\skills\generate-steve-jobs-talks`
+- Hash do `SKILL.md`: `096a44d8af9e407ab5fa7bb637b8291d88844d850f38448456857c7d2b7b3014`
+
+## Resumo
+
+Generate talk outlines and manuscripts in Steve Jobs's communication style. Two modes: Stanford mode (Connecting the Dots, Love and Loss, Death as clarifier) and Keynote mode (villain-hero, rule of three, demo as theater, one more thing). Shared traits: radical simplicity, tech plus humanities, and the crazy-enough-to-change-the-world conviction.
+
+## Instalacao individual
+
+```powershell
+$zip = "packages/palestras-motivacao/generate-steve-jobs-talks.zip"
+$destino = "C:\Users\filip\.codex\skills"
+Expand-Archive -LiteralPath $zip -DestinationPath $destino -Force
+```
+
+## Rastreabilidade
+
+| Campo | Valor |
+|---|---|
+| Package ID | `generate-steve-jobs-talks` |
+| Skill name | `generate-steve-jobs-talks` |
+| Categoria | `palestras-motivacao` |
+| Namespace | `local` |
+| Tipo da fonte | Codex local |
+| Fonte original | `C:\Users\filip\.codex\skills\generate-steve-jobs-talks` |
+| Pasta no repositorio | `skills/palestras-motivacao/generate-steve-jobs-talks` |
+| Arquivo principal | `skills/palestras-motivacao/generate-steve-jobs-talks/SKILL.md` |
+| Zip | `packages/palestras-motivacao/generate-steve-jobs-talks.zip` |
+| Tamanho do zip | 24,9 KB |
+| Duplicatas consolidadas | 2 |
+
+## Metadados do SKILL.md
+
+| Chave | Valor |
+|---|---|
+| `name` | generate-steve-jobs-talks |
+| `description` | Generate talk outlines and manuscripts in Steve Jobs's communication style. Two modes: Stanford mode (Connecting the Dots, Love and Loss, Death as clarifier) and Keynote mode (villain-hero, rule of three, demo as theater, one more thing). Shared traits: radical simplicity, tech plus humanities, and the crazy-enough-to-change-the-world conviction. |
+
+## Estrutura do pacote
+
+| Metrica | Valor |
+|---|---:|
+| Arquivos | 8 |
+| Diretorios | 3 |
+| Tamanho copiado | 63,5 KB |
+
+### Diretorios principais
+
+| Diretorio | Arquivos | Tamanho |
+|---|---:|---:|
+| `agents` | 1 | 350 B |
+| `references` | 1 | 32,0 KB |
+| `scripts` | 5 | 16,5 KB |
+
+## Secoes internas detectadas
+
+- Generate Steve Jobs Talks
+-   Overview
+-   Method Fidelity Rules
+-   Mode Selection Logic
+-   Workflow
+-   Originality Requirement
+-   Research Requirement
+-   Preparation Rules
+-   Output Contract
+-   Document Delivery
+-   Style Rules
+-   Quality Check
+-   Final Cleanup Rule
+-   Final Output Override (MD Only)
+-   Pergunta Inicial Obrigatoria (Escopo da Producao)
+
+## Arquivos do pacote
+
+| Arquivo | Tamanho |
+|---|---:|
+| `skills/palestras-motivacao/generate-steve-jobs-talks/agents/openai.yaml` | 350 B |
+| `skills/palestras-motivacao/generate-steve-jobs-talks/references/steve_jobs_method.md` | 32,0 KB |
+| `skills/palestras-motivacao/generate-steve-jobs-talks/scripts/adapters.py` | 848 B |
+| `skills/palestras-motivacao/generate-steve-jobs-talks/scripts/config.json` | 453 B |
+| `skills/palestras-motivacao/generate-steve-jobs-talks/scripts/core.py` | 6,2 KB |
+| `skills/palestras-motivacao/generate-steve-jobs-talks/scripts/create_talk_docx.py` | 3,4 KB |
+| `skills/palestras-motivacao/generate-steve-jobs-talks/scripts/create_talk_epub.py` | 5,7 KB |
+| `skills/palestras-motivacao/generate-steve-jobs-talks/SKILL.md` | 14,6 KB |
+
+## Fontes equivalentes consolidadas
+
+- `C:\Users\filip\.codex\skills\generate-steve-jobs-talks`
+- `C:\Users\filip\.cursor\skills\generate-steve-jobs-talks`
+
+## Conteudo integral do SKILL.md
+
+```
+markdown
+---
+name: generate-steve-jobs-talks
+description: "Generate talk outlines and manuscripts in Steve Jobs's communication style. Two modes: Stanford mode (Connecting the Dots, Love and Loss, Death as clarifier) and Keynote mode (villain-hero, rule of three, demo as theater, one more thing). Shared traits: radical simplicity, tech plus humanities, and the crazy-enough-to-change-the-world conviction."
+---
+
+# Generate Steve Jobs Talks
+
+## Overview
+
+Generate talks with Steve Jobs's authentic communication methodology in two distinct modes that reflect his two greatest communication legacies.
+
+**Mode 1 â€” Stanford Mode** (for inspirational, personal, or commencement-style talks): the three-story biographical framework from the 2005 Stanford address. Story 1: Connecting the Dots (the retrospective pattern â€” how seemingly useless experiences become essential). Story 2: Love and Loss (finding what you love, losing it, and the unexpected liberation of starting again). Story 3: Death as the Clarifier (mortality as the most powerful tool for making decisions that matter). Close: Stay Hungry, Stay Foolish.
+
+**Mode 2 â€” Keynote Mode** (for vision, product, innovation, or leadership launches): the visionary presentation architecture of Apple's landmark keynotes. The villain-hero narrative (the world has a problem that no one has solved elegantly). The Rule of Three (three products, three benefits, three reasons). The Reality Distortion Field construction (the vision made so vivid and concrete that the audience cannot imagine the world without it). The demo as theater (showing the thing working, in real time, with drama). One More Thing (the unexpected revelation that reframes everything). Close: the intersection of technology and the liberal arts.
+
+Both modes share the Jobs signature: radical simplicity of expression, the conviction that great work requires love, and the philosophy that the people crazy enough to think they can change the world are the ones who do.
+
+The default deliverable is a formatted Microsoft Word document.
+
+Read [references/steve_jobs_method.md](references/steve_jobs_method.md) when writing or reviewing the talk. Treat that file as the source of truth for structure, timing, tone, checkpoints, and required output sections.
+Use [scripts/create_talk_docx.py](scripts/create_talk_docx.py) to turn the final manuscript into a `.docx` file and enforce minimum word count before delivery.
+Treat [scripts/core.py](scripts/core.py) as the portable logic layer, [scripts/adapters.py](scripts/adapters.py) as the environment adapter layer, and [scripts/config.json](scripts/config.json) as runtime defaults.
+
+## Method Fidelity Rules
+
+- The linked reference file is the governing specification for the Steve Jobs methodology.
+- Follow every non-negotiable in that reference exactly, even when this `SKILL.md` summarizes the method more briefly.
+- If this `SKILL.md` and the reference file ever differ, the reference file wins.
+- The user must specify or the skill must determine which mode is appropriate before writing. If the talk is personal, biographical, and inspirational â€” use Stanford Mode. If the talk is about launching a vision, idea, product, or change initiative â€” use Keynote Mode. If the theme warrants both, combine them in the order: Stanford Mode arc + Keynote Mode close.
+- Do not flatten Jobs into a generic inspirational speech. Stanford Mode must preserve the three-story structure in sequence (Dots â†’ Loss â†’ Death) and close with Stay Hungry Stay Foolish. Keynote Mode must preserve the villain-hero narrative, the Rule of Three, the demo moment, and One More Thing.
+- Jobs's tone is specific and mandatory: deceptively casual yet precisely controlled. He sounds like he is thinking aloud â€” "Today I want to tell you three stories. That's it. No big deal. Just three stories." But every word was chosen deliberately. The apparent simplicity conceals extraordinary craft.
+- Jobs never uses bullet points, complex slides, or lists of features as the organizing principle. He uses story, demonstration, and the progressive revelation of a single big idea.
+- Jobs's vocabulary is specific and must appear throughout: "insanely great," "stay hungry, stay foolish," "one more thing," "the most [superlative] ever," "this changes everything," "connecting the dots," "don't settle," "you are already naked," "put a dent in the universe," "the intersection of technology and the liberal arts," "think different," "the reality distortion field" (this last one is described but never named in the talk itself).
+- If the user asks for Steve Jobs, keep the methodology intact unless the user explicitly asks to depart from it.
+
+## Mode Selection Logic
+
+Before writing, declare the mode explicitly:
+
+- **Stanford Mode**: The audience is about to begin something significant â€” a new phase, a difficult path, or they need the courage to follow their instincts against conventional wisdom.
+- **Keynote Mode**: The audience needs to believe in a vision â€” a new idea, initiative, product, direction, or change â€” that currently does not exist or that they have not yet accepted.
+- **Combined Mode**: The talk uses personal biographical story (Stanford) to establish credibility and emotional connection, then pivots to a specific vision (Keynote) â€” the most powerful configuration for leadership keynotes.
+
+## Workflow
+
+1. Confirm the theme, audience, and purpose of the talk.
+2. Determine and declare the mode (Stanford / Keynote / Combined) before writing.
+3. If the user did not provide audience profile or context, assume a room of ambitious professionals, entrepreneurs, or creators who are talented but playing it too safe â€” staying in comfortable mediocrity when they have the capacity for something genuinely remarkable.
+4. Default to Brazilian Portuguese unless the user asks for another language.
+5. Unless the user requests another output format, produce a `.docx` file.
+
+## Originality Requirement
+
+Every talk must be newly written for the current request. Preserve the distinctive methodology of Steve Jobs while producing original wording for the present request.
+
+## Research Requirement
+
+Before drafting the talk, browse the internet for:
+- Specific details from Jobs's biography that are most relevant to the theme (Walter Isaacson's biography is the primary source).
+- Contemporary examples of the intersection of technology and the humanities that reinforce the specific talk's theme.
+- The most recent innovations or cultural moments that can serve as the "villain" in Keynote Mode.
+
+## Preparation Rules
+
+**For Stanford Mode:**
+- Identify the three dots before writing: which experiences, failures, or apparently useless choices will form the retrospective pattern?
+- Write the lesson of each story before writing the story itself: the story must earn the lesson, not announce it in advance.
+- Write the Death passage before the rest: it is the emotional and philosophical heart of the entire speech.
+
+**For Keynote Mode:**
+- Identify the villain clearly before writing: what specific, concrete problem is the world suffering from that the idea/vision/product solves?
+- Write the "One More Thing" before writing anything else: the whole talk is the setup for this revelation.
+- Design the demo moment: where in the talk does the idea become real, tangible, undeniable?
+
+- If the request is for a complete talk and no shorter limit is given, enforce at least 7,500 words.
+
+## Output Contract
+
+**Stanford Mode** â€” before the talk body, declare:
+
+1. The Three Dots (the three specific biographical experiences that form the retrospective pattern).
+2. The Core Lesson of Each Story (what the audience must take away from each).
+3. The Death Passage Application (how the mortality argument connects to the specific audience's situation).
+4. The Stay Hungry Stay Foolish Close (the exact final phrase and its application to this audience).
+5. The Rule of Three Application (what three things are organized in the talk).
+6. The Signature Phrase (the one sentence from this talk that the audience will remember).
+7. The Unexpected Connection (the calligraphy moment â€” the thing that seemed useless and turned out to be essential).
+
+Then write the talk with these clearly signaled sections:
+
+1. A ABERTURA CASUAL E PRECISA (Deceptively casual opening â€” "Today I want to tell you X. That's it.")
+2. HISTÃ“RIA 1: CONECTANDO OS PONTOS (Connecting the Dots â€” the retrospective pattern of unexpected value)
+3. HISTÃ“RIA 2: AMOR E PERDA (Love and Loss â€” finding what you love, losing it, the liberation of starting again)
+4. HISTÃ“RIA 3: A MORTE COMO CLARIFICADORA (Death as the Clarifier â€” mortality as the most powerful decision tool)
+5. STAY HUNGRY. STAY FOOLISH. (The close â€” the simplest and most powerful instruction)
+
+**Keynote Mode** â€” before the talk body, declare:
+
+1. The Villain (the specific, concrete problem the world is suffering from).
+2. The Hero (the idea, vision, or initiative that solves it, described as if from the future).
+3. The Rule of Three Structure (the three things that organize the talk).
+4. The Demo Moment (where and how the idea becomes real and tangible in the talk).
+5. One More Thing (the unexpected revelation that reframes everything that came before).
+6. The Intersection Argument (how this idea sits at the intersection of technology and the humanities).
+7. The Reality Distortion Anchor (the single image or phrase that makes the vision undeniable).
+
+Then write the talk with these clearly signaled sections:
+
+1. A ABERTURA DE IMPACTO (High-impact opening â€” the problem stated in its most visceral form)
+2. O VILÃƒO (The Villain â€” the world as it is, with the problem made undeniable)
+3. A REGRA DE TRÃŠS (The Rule of Three â€” the three things that structure the solution)
+4. A DEMONSTRAÃ‡ÃƒO (The Demo â€” the idea made real, in real time, with theater)
+5. A INTERSEÃ‡ÃƒO (The Intersection of technology and the humanities â€” the deeper argument)
+6. UMA COISA A MAIS (One More Thing â€” the unexpected revelation)
+7. O FECHAMENTO VISIONÃRIO (The visionary close â€” the world as it will be)
+
+## Document Delivery
+
+- Write the talk manuscript to a UTF-8 text or markdown file first inside [outputs/](outputs/).
+- Run `scripts/create_talk_docx.py` with `--min-words 7500`.
+- Name the `.docx` using the theme plus the speaker name and mode: `Conectando_os_Pontos_Steve_Jobs_Stanford.docx` or `Lancamento_da_Visao_Steve_Jobs_Keynote.docx`.
+- Copy the `.docx` to `C:\Users\filip\.codex\skills\DOCS_Talks`.
+- Run `scripts/create_talk_epub.py` and save the `.epub` to `C:\Users\filip\.codex\skills\EPUB_TALKS`.
+- Deliver both file paths to the user, then empty [outputs/](outputs/).
+
+## Style Rules
+
+- Deceptively casual and precisely controlled â€” sounds spontaneous, was rehearsed for weeks.
+- Simple sentences. Short paragraphs. Never a list of bullet points as the organizational principle.
+- Use the rule of three obsessively: three stories, three products, three reasons, three things.
+- Jobs's pauses must be written as stage directions: [PAUSA] for the moment the audience absorbs something.
+- The superlative is Jobs's natural register: "the most," "the best," "revolutionary," "insanely great."
+- Never explain the emotion â€” produce it. Jobs does not say "this is exciting." He says "isn't that cool?" and lets the thing speak.
+- The demo must be written as if it is happening live: present tense, immediacy, theater.
+- The intersection of technology and the liberal arts must appear in Keynote Mode â€” it is Jobs's most important philosophical claim about why Apple matters and why this idea matters.
+- "Stay Hungry. Stay Foolish." must close Stanford Mode. Period. Nothing after it.
+- "One More Thing" must arrive as a surprise in Keynote Mode â€” the talk must not telegraph it.
+
+## Quality Check
+
+**Stanford Mode:**
+- Verify the opening is deceptively casual: "Just three stories. That's it."
+- Verify Story 1 (Connecting the Dots) uses a specific unexpected experience that turned out to be essential â€” not a generic wisdom claim.
+- Verify Story 2 (Love and Loss) includes both finding love for the work AND losing something significant â€” and the liberation that followed.
+- Verify Story 3 (Death) includes the mirror question ("If today were the last day of my life, would I want to do what I am about to do today?") and the "You are already naked" principle.
+- Verify "Stay Hungry. Stay Foolish." closes the talk â€” with nothing after it.
+- Verify the Rule of Three is present structurally.
+- Verify "Don't Settle" appears at least once.
+
+**Keynote Mode:**
+- Verify the opening names the villain concretely â€” not abstractly.
+- Verify the Rule of Three organizes the talk.
+- Verify the demo moment is written as theater â€” present tense, immediate, visceral.
+- Verify the intersection of technology and the liberal arts appears.
+- Verify "One More Thing" arrives unexpectedly.
+- Verify the close paints the world as it will be â€” not how it is.
+
+**Both Modes:**
+- Verify the tone is simple and precise â€” never corporate, never academic.
+- Verify the superlative appears appropriately: the most, the best, insanely great.
+- Verify the generated `.docx` meets the minimum word count.
+
+## Final Cleanup Rule
+
+After the final `.docx` and `.epub` have been delivered, the local `outputs/` folder must be emptied while preserving the folder itself.
+
+## Final Output Override (MD Only)
+
+- Esta skill deve entregar exatamente um unico arquivo final `.md`.
+- Nao gerar `.docx`, `.epub`, `.pdf`, `.csv`, `.xlsx` ou qualquer outro artefato final.
+- Salvar o arquivo final `.md` em `C:\Users\filip\Dropbox\Obsidian_Filipe\Ministério\Sermões\Skill_Revisar`.
+- Entregar ao usuario apenas o caminho absoluto desse `.md` salvo.
+- Se qualquer instrucao deste arquivo conflitar com esta secao, esta secao prevalece.
+
+## Pergunta Inicial Obrigatoria (Escopo da Producao)
+
+Antes de iniciar qualquer producao, esta skill deve sempre perguntar ao usuario:
+
+`Voce quer apenas o esboco ou a versao completa (sermao/palestra)?`
+
+Opcoes e regras:
+
+- `Esboco`: gerar somente a estrutura (titulo, tese central, pontos principais, transicoes, aplicacoes e conclusao resumida), sem manuscrito completo.
+- `Completa`: gerar o manuscrito completo.
+- Se a resposta nao estiver clara, pausar e pedir confirmacao antes de escrever.
+- Esta pergunta e obrigatoria e deve acontecer antes de qualquer etapa de redacao.
+- Em fluxos em lote, fazer a pergunta uma vez no inicio e aplicar a resposta a todos os itens, salvo instrucao contraria do usuario.
+```
