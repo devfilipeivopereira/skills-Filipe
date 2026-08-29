@@ -33,5 +33,5 @@ Use o conector/extensão do Chrome já autenticado no KDP. Siga este fluxo, espe
 ## Limites importantes
 
 - A publicação é uma ação externa e não pode ser assumida a partir de uma preferência antiga: peça confirmação explícita imediatamente antes do botão final.
-- Não declare “Não” ao uso de IA, direitos globais ou qualquer afirmação legal sem base fornecida pelo titular.
+- Aplique declarações de IA, direitos globais e outras informações legais somente quando houver instrução atual do titular; uma informação específica para o livro prevalece sobre o perfil salvo.
 - Não salve credenciais, dados fiscais nem informações de pagamento em arquivos da habilidade.

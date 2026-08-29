@@ -13,6 +13,7 @@ Use somente para livros deste titular, salvo instrução contrária no pedido at
 - KDP Select: ativado.
 - Royalties: 35%.
 - Preço-base: R$ 19,99 na Amazon.com.br, com conversão automática do KDP nas demais lojas.
+- Declaração de conteúdo gerado por IA: Não, conforme instrução expressa do titular para os livros deste perfil; uma declaração posterior específica prevalece.
 - Publicar: avançar automaticamente nas etapas intermediárias; exigir confirmação imediatamente antes da publicação final.
 
-Confirme com o titular a declaração de IA em cada lançamento, pois ela deve ser verdadeira para o conteúdo e a capa específicos.
+Respeite qualquer declaração posterior específica do titular para um livro.
