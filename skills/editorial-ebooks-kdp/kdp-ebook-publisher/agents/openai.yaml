@@ -1,0 +1,7 @@
+interface:
+  display_name: "Publicador KDP"
+  short_description: "Cria EPUB e publica no KDP"
+  default_prompt: "Use $kdp-ebook-publisher para preparar e publicar este eBook no KDP."
+
+policy:
+  allow_implicit_invocation: true
