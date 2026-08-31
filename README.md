@@ -1,6 +1,6 @@
 ﻿# Skills Filipe
 
-Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook em 2026-06-23T12:12:36.0916036-03:00.
+Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook, atualizada em 2026-08-31.
 
 ## O que tem aqui
 
@@ -24,11 +24,19 @@ Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook
 | desenvolvimento-devops | 5 |
 | design-figma-frontend | 10 |
 | documentos-dados-midia | 2 |
-| editorial-ebooks-kdp | 10 |
+| editorial-ebooks-kdp | 11 |
 | notion-produtividade | 14 |
 | palestras-motivacao | 34 |
 | sermoes-pregacao | 60 |
 | sistema-agentes | 24 |
+
+## Romance adulto 30K para KDP
+
+A skill `romance-adulto-30k` cria romances adultos originais em português brasileiro com exatamente 30.000 palavras de prosa ficcional e entrega EPUB 3 responsivo para Amazon KDP, capa JPEG incorporada e separada, metadados editoriais de Kang Arin e relatório de validação.
+
+- Skill: `skills/editorial-ebooks-kdp/romance-adulto-30k`
+- Pacote instalável: `packages/editorial-ebooks-kdp/romance-adulto-30k.zip`
+- Documentação: `docs/skills/editorial-ebooks-kdp/romance-adulto-30k/README.md`
 
 ## Como regenerar
 
@@ -48,4 +56,3 @@ powershell -NoProfile -ExecutionPolicy Bypass -File scripts/generate-skill-docs.
 Escolha um pacote em `packages/<categoria>/<skill>.zip` e extraia em uma pasta de skills, por exemplo `C:\Users\filip\.codex\skills`.
 
 Veja mais detalhes em `INSTALL.md`.
-

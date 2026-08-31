@@ -1,8 +1,8 @@
 # Indice Detalhado de Skills
 
-Gerado em: `2026-06-23T12:31:54.9693869-03:00`
+Gerado em: `2026-08-31T17:26:50.3629689-03:00`
 
-Total de skills documentadas: **167**
+Total de skills documentadas: **168**
 
 ## Como usar este indice
 
@@ -18,7 +18,7 @@ Total de skills documentadas: **167**
 | Desenvolvimento e DevOps (`desenvolvimento-devops`) | 5 | `skills/desenvolvimento-devops` |
 | Design, Figma e Frontend (`design-figma-frontend`) | 10 | `skills/design-figma-frontend` |
 | Documentos, Dados e Midia (`documentos-dados-midia`) | 2 | `skills/documentos-dados-midia` |
-| Editorial, Ebooks e KDP (`editorial-ebooks-kdp`) | 10 | `skills/editorial-ebooks-kdp` |
+| Editorial, Ebooks e KDP (`editorial-ebooks-kdp`) | 11 | `skills/editorial-ebooks-kdp` |
 | Notion e Produtividade (`notion-produtividade`) | 14 | `skills/notion-produtividade` |
 | Palestras e Motivacao (`palestras-motivacao`) | 34 | `skills/palestras-motivacao` |
 | Sermoes e Pregacao (`sermoes-pregacao`) | 60 | `skills/sermoes-pregacao` |
@@ -60,6 +60,7 @@ Total de skills documentadas: **167**
 | `notion-corrigido-from-transcricoes` | `editorial-ebooks-kdp` | Codex local / `local` | 4 | [7,0 KB](../packages/editorial-ebooks-kdp/notion-corrigido-from-transcricoes.zip) | [abrir](skills/editorial-ebooks-kdp/notion-corrigido-from-transcricoes/README.md) | Ler um banco do Notion, baixar o arquivo .txt da coluna Transcrições, corrigir o texto em português preservando o sermão e gravar o resultado na coluna Corrigido com nome de arq... |
 | `notion-ebook-from-corrigido` | `editorial-ebooks-kdp` | Codex local / `local` | 4 | [17,8 KB](../packages/editorial-ebooks-kdp/notion-ebook-from-corrigido.zip) | [abrir](skills/editorial-ebooks-kdp/notion-ebook-from-corrigido/README.md) | Ler um banco do Notion, localizar a coluna corrigido, extrair apenas a parte da pregação, transformar esse texto em um ebook conversacional em português e gravar o resultado na ... |
 | `notion-ebook-from-corrigido--v2` | `editorial-ebooks-kdp` | Gemini local / `gemini` | 4 | [15,9 KB](../packages/editorial-ebooks-kdp/notion-ebook-from-corrigido--v2.zip) | [abrir](skills/editorial-ebooks-kdp/notion-ebook-from-corrigido--v2/README.md) | Ler um banco do Notion, localizar a coluna corrigido, extrair apenas a parte da pregação de cada página, transformar esse texto em um ebook conversacional em português e gravar ... |
+| `romance-adulto-30k` | `editorial-ebooks-kdp` | Codex local / `local` | 14 | [32,3 KB](../packages/editorial-ebooks-kdp/romance-adulto-30k.zip) | [abrir](skills/editorial-ebooks-kdp/romance-adulto-30k/README.md) | Cria do início ao fim romances adultos originais em português brasileiro, com exatamente 30.000 palavras de prosa ficcional, estrutura narrativa em 15 batidas, arco romântico co... |
 | `translate-epubs-with-tbl` | `editorial-ebooks-kdp` | Codex local / `local` | 6 | [12,4 KB](../packages/editorial-ebooks-kdp/translate-epubs-with-tbl.zip) | [abrir](skills/editorial-ebooks-kdp/translate-epubs-with-tbl/README.md) | Use when the user asks to translate EPUB books with the local TranslateBooksWithLLMs installation and expects operational execution end-to-end. |
 | `translate-epubs-with-tbl--v2` | `editorial-ebooks-kdp` | Gemini local / `gemini` | 6 | [12,4 KB](../packages/editorial-ebooks-kdp/translate-epubs-with-tbl--v2.zip) | [abrir](skills/editorial-ebooks-kdp/translate-epubs-with-tbl--v2/README.md) | Use when the user asks to translate EPUB books with the local TranslateBooksWithLLMs installation and expects operational execution end-to-end. |
 | `youtube-notion-sync` | `editorial-ebooks-kdp` | Codex local / `local` | 5 | [8,4 KB](../packages/editorial-ebooks-kdp/youtube-notion-sync.zip) | [abrir](skills/editorial-ebooks-kdp/youtube-notion-sync/README.md) | Sincroniza transcricoes do YouTube com o Notion. Use para extrair legendas de videos ou playlists, atualizar transcricoes no Notion e cadastrar novos videos automaticamente. |
@@ -244,6 +245,7 @@ Total de skills documentadas: **167**
 - [notion-corrigido-from-transcricoes](skills/editorial-ebooks-kdp/notion-corrigido-from-transcricoes/README.md) - Ler um banco do Notion, baixar o arquivo .txt da coluna Transcrições, corrigir o texto em português preservando o sermão e gravar o resultado na coluna Corrigido com nome de arquivo iniciado por underscore. Use quando...
 - [notion-ebook-from-corrigido](skills/editorial-ebooks-kdp/notion-ebook-from-corrigido/README.md) - Ler um banco do Notion, localizar a coluna corrigido, extrair apenas a parte da pregação, transformar esse texto em um ebook conversacional em português e gravar o resultado na coluna ebook.
 - [notion-ebook-from-corrigido--v2](skills/editorial-ebooks-kdp/notion-ebook-from-corrigido--v2/README.md) - Ler um banco do Notion, localizar a coluna corrigido, extrair apenas a parte da pregação de cada página, transformar esse texto em um ebook conversacional em português e gravar o resultado na coluna ebook. Use quando ...
+- [romance-adulto-30k](skills/editorial-ebooks-kdp/romance-adulto-30k/README.md) - Cria do início ao fim romances adultos originais em português brasileiro, com exatamente 30.000 palavras de prosa ficcional, estrutura narrativa em 15 batidas, arco romântico completo e final HEA/HFN. Planeja, redige,...
 - [translate-epubs-with-tbl](skills/editorial-ebooks-kdp/translate-epubs-with-tbl/README.md) - Use when the user asks to translate EPUB books with the local TranslateBooksWithLLMs installation and expects operational execution end-to-end.
 - [translate-epubs-with-tbl--v2](skills/editorial-ebooks-kdp/translate-epubs-with-tbl--v2/README.md) - Use when the user asks to translate EPUB books with the local TranslateBooksWithLLMs installation and expects operational execution end-to-end.
 - [youtube-notion-sync](skills/editorial-ebooks-kdp/youtube-notion-sync/README.md) - Sincroniza transcricoes do YouTube com o Notion. Use para extrair legendas de videos ou playlists, atualizar transcricoes no Notion e cadastrar novos videos automaticamente.

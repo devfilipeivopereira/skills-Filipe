@@ -1,8 +1,8 @@
 ﻿# Catalogo de Skills
 
-Gerado em: `2026-06-23T12:12:36.0916036-03:00`
+Gerado em: `2026-08-31T17:26:13.2011040-03:00`
 
-Total de pacotes: **167**
+Total de pacotes: **168**
 
 | Pacote | Skill | Categoria | Origem | Zip | Descricao |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@ Total de pacotes: **167**
 | `notion-corrigido-from-transcricoes` | notion-corrigido-from-transcricoes | `editorial-ebooks-kdp` | Codex local / `local` | `packages/editorial-ebooks-kdp/notion-corrigido-from-transcricoes.zip` | Ler um banco do Notion, baixar o arquivo .txt da coluna Transcrições, corrigir o texto em português preservando o sermão e gravar o resultado na co... |
 | `notion-ebook-from-corrigido` | notion-ebook-from-corrigido | `editorial-ebooks-kdp` | Codex local / `local` | `packages/editorial-ebooks-kdp/notion-ebook-from-corrigido.zip` | Ler um banco do Notion, localizar a coluna corrigido, extrair apenas a parte da pregação, transformar esse texto em um ebook conversacional em port... |
 | `notion-ebook-from-corrigido--v2` | notion-ebook-from-corrigido | `editorial-ebooks-kdp` | Gemini local / `gemini` | `packages/editorial-ebooks-kdp/notion-ebook-from-corrigido--v2.zip` | Ler um banco do Notion, localizar a coluna corrigido, extrair apenas a parte da pregação de cada página, transformar esse texto em um ebook convers... |
+| `romance-adulto-30k` | romance-adulto-30k | `editorial-ebooks-kdp` | Codex local / `local` | `packages/editorial-ebooks-kdp/romance-adulto-30k.zip` | Cria romances adultos originais em português brasileiro com exatamente 30.000 palavras, capa, metadados de Kang Arin e EPUB responsivo para Amazon... |
 | `translate-epubs-with-tbl` | translate-epubs-with-tbl | `editorial-ebooks-kdp` | Codex local / `local` | `packages/editorial-ebooks-kdp/translate-epubs-with-tbl.zip` | Use when the user asks to translate EPUB books with the local TranslateBooksWithLLMs installation and expects operational execution end-to-end. |
 | `translate-epubs-with-tbl--v2` | translate-epubs-with-tbl | `editorial-ebooks-kdp` | Gemini local / `gemini` | `packages/editorial-ebooks-kdp/translate-epubs-with-tbl--v2.zip` | Use when the user asks to translate EPUB books with the local TranslateBooksWithLLMs installation and expects operational execution end-to-end. |
 | `youtube-notion-sync` | youtube-notion-sync | `editorial-ebooks-kdp` | Codex local / `local` | `packages/editorial-ebooks-kdp/youtube-notion-sync.zip` | Sincroniza transcricoes do YouTube com o Notion. Use para extrair legendas de videos ou playlists, atualizar transcricoes no Notion e cadastrar nov... |
@@ -173,4 +174,3 @@ Total de pacotes: **167**
 | `system-plugin-creator` | plugin-creator | `sistema-agentes` | Codex system / `system` | `packages/sistema-agentes/system-plugin-creator.zip` | Create and scaffold plugin directories for Codex with a required `.codex-plugin/plugin.json`, optional plugin folders/files, valid manifest default... |
 | `system-skill-creator` | skill-creator | `sistema-agentes` | Codex system / `system` | `packages/sistema-agentes/system-skill-creator.zip` | Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Cod... |
 | `system-skill-installer` | skill-installer | `sistema-agentes` | Codex system / `system` | `packages/sistema-agentes/system-skill-installer.zip` | Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a ... |
-

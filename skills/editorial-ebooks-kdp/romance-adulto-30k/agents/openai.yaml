@@ -1,0 +1,4 @@
+interface:
+  display_name: "Romance Adulto 30K para KDP"
+  short_description: "Cria romances completos em EPUB pronto para KDP"
+  default_prompt: "Use $romance-adulto-30k para criar um romance adulto original de exatamente 30.000 palavras e entregar o EPUB para KDP, com capa e metadados de Kang Arin."

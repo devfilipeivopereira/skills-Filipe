@@ -1,12 +1,12 @@
 ﻿{
-    "generated_at":  "2026-06-23T12:12:36.0916036-03:00",
+    "generated_at":  "2026-08-31T17:26:13.2011040-03:00",
     "project_root":  "C:\\Users\\filip\\DEV\\SKILLS FILIPE",
     "strategy":  "Direct installable skill directories are selected; duplicate SKILL.md content is collapsed; divergent same-name content is retained as versioned package ids.",
     "counts":  {
                    "scanned_roots":  10,
-                   "discovered_candidates":  394,
-                   "selected_packages":  167,
-                   "generated_zips":  167
+                   "discovered_candidates":  395,
+                   "selected_packages":  168,
+                   "generated_zips":  168
                },
     "source_roots":  [
                          {
@@ -31,7 +31,7 @@
                              "path":  "C:\\Users\\filip\\.codex\\skills",
                              "namespace":  "local",
                              "kind":  "Codex local",
-                             "direct_skills":  83
+                             "direct_skills":  84
                          },
                          {
                              "path":  "C:\\Users\\filip\\.codex\\skills\\.system",
@@ -651,6 +651,22 @@
                        "duplicate_sources":  [
                                                  "C:\\Users\\filip\\.gemini\\skills\\notion-ebook-from-corrigido",
                                                  "C:\\Users\\filip\\.windsurf\\skills\\notion-ebook-from-corrigido"
+                                             ]
+                   },
+                   {
+                       "package_id":  "romance-adulto-30k",
+                       "skill_name":  "romance-adulto-30k",
+                       "category":  "editorial-ebooks-kdp",
+                       "description":  "Cria do início ao fim romances adultos originais em português brasileiro, com exatamente 30.000 palavras de prosa ficcional, estrutura narrativa em 15 batidas, arco romântico completo e final HEA/HFN. Planeja, redige, revisa, cria capa, incorpora metadados da autora Kang Arin e entrega EPUB responsivo validado para publicação no Amazon KDP. Use quando o usuário pedir um romance, novela romântica, livro de romance adulto, manuscrito de 30 mil palavras ou arquivo EPUB/KDP de ficção romântica.",
+                       "source_kind":  "Codex local",
+                       "namespace":  "local",
+                       "source_path":  "C:\\Users\\Win11\\.codex\\skills\\romance-adulto-30k",
+                       "copied_path":  "skills/editorial-ebooks-kdp/romance-adulto-30k",
+                       "zip_path":  "packages/editorial-ebooks-kdp/romance-adulto-30k.zip",
+                       "skill_md_sha256":  "4b86eb943e2d8ea8590da7ca93152168484ad788cecfc9fcbaa3f531491bf36d",
+                       "duplicate_source_count":  1,
+                       "duplicate_sources":  [
+                                                 "C:\\Users\\Win11\\.codex\\skills\\romance-adulto-30k"
                                              ]
                    },
                    {
