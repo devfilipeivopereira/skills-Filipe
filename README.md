@@ -1,6 +1,6 @@
 ﻿# Skills Filipe
 
-Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook, atualizada em 2026-08-31.
+Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook, atualizada em 2026-10-08.
 
 ## O que tem aqui
 
@@ -27,7 +27,7 @@ Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook
 | editorial-ebooks-kdp | 11 |
 | notion-produtividade | 14 |
 | palestras-motivacao | 34 |
-| sermoes-pregacao | 60 |
+| sermoes-pregacao | 61 |
 | sistema-agentes | 24 |
 
 ## Romance adulto 30K para KDP
@@ -37,6 +37,14 @@ A skill `romance-adulto-30k` cria romances adultos originais em português brasi
 - Skill: `skills/editorial-ebooks-kdp/romance-adulto-30k`
 - Pacote instalável: `packages/editorial-ebooks-kdp/romance-adulto-30k.zip`
 - Documentação: `docs/skills/editorial-ebooks-kdp/romance-adulto-30k/README.md`
+
+## Sermão de 1 Ponto (Andy Stanley-Talbot Davis)
+
+A skill `sermao-de-1-ponto-andy-stanley-talbot-davis` cria, reescreve e audita sermões bíblicos de uma ideia central. Ela mantém o mapa EU–NÓS–DEUS–VOCÊS–NÓS de Andy Stanley e Lane Jones e acrescenta os aprofundamentos de Talbot Davis para exegese, jornada de descoberta, escrita oral, séries, internalização, funerais e centralidade de Cristo. Cada criação apresenta cinco alternativas de bottom line e cinco de frase-refrão, usa história, ilustração e analogia e termina em uma aplicação focal.
+
+- Skill: `skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis`
+- Pacote instalável: `packages/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis.zip`
+- Documentação: `docs/skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis/README.md`
 
 ## Como regenerar
 

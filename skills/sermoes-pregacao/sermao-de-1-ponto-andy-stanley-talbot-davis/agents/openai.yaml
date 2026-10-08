@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sermão de 1 Ponto (Andy Stanley-Talbot Davis)"
+  short_description: "Sermões claros, bíblicos, memoráveis e aplicáveis"
+  default_prompt: "Use $sermao-de-1-ponto-andy-stanley-talbot-davis para preparar um sermão bíblico de um ponto, aplicando Stanley e Lane Jones com os aprofundamentos de Talbot Davis."

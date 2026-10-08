@@ -1,12 +1,12 @@
 ﻿{
-    "generated_at":  "2026-08-31T17:26:13.2011040-03:00",
+    "generated_at":  "2026-10-08T10:00:38.6559820-03:00",
     "project_root":  "C:\\Users\\filip\\DEV\\SKILLS FILIPE",
     "strategy":  "Direct installable skill directories are selected; duplicate SKILL.md content is collapsed; divergent same-name content is retained as versioned package ids.",
     "counts":  {
                    "scanned_roots":  10,
                    "discovered_candidates":  395,
-                   "selected_packages":  168,
-                   "generated_zips":  168
+                   "selected_packages":  169,
+                   "generated_zips":  169
                },
     "source_roots":  [
                          {
@@ -89,7 +89,7 @@
                        },
                        {
                            "category":  "editorial-ebooks-kdp",
-                           "count":  10
+                           "count":  11
                        },
                        {
                            "category":  "notion-produtividade",
@@ -101,7 +101,7 @@
                        },
                        {
                            "category":  "sermoes-pregacao",
-                           "count":  60
+                           "count":  61
                        },
                        {
                            "category":  "sistema-agentes",
@@ -2550,6 +2550,22 @@
                        "duplicate_source_count":  1,
                        "duplicate_sources":  [
                                                  "C:\\Users\\filip\\.gemini\\skills\\prepare-bob-smiley-messages"
+                                             ]
+                   },
+                   {
+                       "package_id":  "sermao-de-1-ponto-andy-stanley-talbot-davis",
+                       "skill_name":  "sermao-de-1-ponto-andy-stanley-talbot-davis",
+                       "category":  "sermoes-pregacao",
+                       "description":  "Criar, revisar e preparar sermões de um ponto segundo Andy Stanley e Lane Jones, aprofundados por Talbot Davis em Simplify the Message: Multiply the Impact. Use para preparar, reestruturar, enxugar ou avaliar pregação, esboço, manuscrito, série, funeral ou memorial; descobrir um ponto bíblico memorável, conduzir EU–NÓS–DEUS–VOCÊS–NÓS, tornar a exposição uma jornada de descoberta e desenvolver aplicação concreta.",
+                       "source_kind":  "Codex local",
+                       "namespace":  "local",
+                       "source_path":  "C:\\DEV\\SERMÃO 1 PONTO - ANDY\\skills\\sermao-de-1-ponto-andy-stanley-talbot-davis",
+                       "copied_path":  "skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis",
+                       "zip_path":  "packages/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis.zip",
+                       "skill_md_sha256":  "dff6b6b990aeed1032cc27f08022197dee6c55a1ada56c964a24eb62cdc41328",
+                       "duplicate_source_count":  1,
+                       "duplicate_sources":  [
+                                                 "C:\\DEV\\SERMÃO 1 PONTO - ANDY\\skills\\sermao-de-1-ponto-andy-stanley-talbot-davis"
                                              ]
                    },
                    {

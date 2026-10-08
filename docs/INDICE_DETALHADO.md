@@ -1,8 +1,8 @@
 # Indice Detalhado de Skills
 
-Gerado em: `2026-08-31T17:26:50.3629689-03:00`
+Gerado em: `2026-10-08T10:00:38.6559820-03:00`
 
-Total de skills documentadas: **168**
+Total de skills documentadas: **169**
 
 ## Como usar este indice
 
@@ -21,7 +21,7 @@ Total de skills documentadas: **168**
 | Editorial, Ebooks e KDP (`editorial-ebooks-kdp`) | 11 | `skills/editorial-ebooks-kdp` |
 | Notion e Produtividade (`notion-produtividade`) | 14 | `skills/notion-produtividade` |
 | Palestras e Motivacao (`palestras-motivacao`) | 34 | `skills/palestras-motivacao` |
-| Sermoes e Pregacao (`sermoes-pregacao`) | 60 | `skills/sermoes-pregacao` |
+| Sermoes e Pregacao (`sermoes-pregacao`) | 61 | `skills/sermoes-pregacao` |
 | Sistema e Agentes (`sistema-agentes`) | 24 | `skills/sistema-agentes` |
 
 ## Tabela geral
@@ -167,6 +167,7 @@ Total de skills documentadas: **168**
 | `notion-roteiros-videos-cristaos` | `sermoes-pregacao` | Codex local / `local` | 3 | [4,7 KB](../packages/sermoes-pregacao/notion-roteiros-videos-cristaos.zip) | [abrir](skills/sermoes-pregacao/notion-roteiros-videos-cristaos/README.md) | Use when the user wants to generate and insert five Christian short-video script ideas into the `🎬 Roteiros de Vídeo` Notion database, especially practical day-to-day themes fo... |
 | `prepare-bob-smiley-messages` | `sermoes-pregacao` | Codex local / `local` | 7 | [10,3 KB](../packages/sermoes-pregacao/prepare-bob-smiley-messages.zip) | [abrir](skills/sermoes-pregacao/prepare-bob-smiley-messages/README.md) | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contex... |
 | `prepare-bob-smiley-messages--v2` | `sermoes-pregacao` | Gemini local / `gemini` | 7 | [9,8 KB](../packages/sermoes-pregacao/prepare-bob-smiley-messages--v2.zip) | [abrir](skills/sermoes-pregacao/prepare-bob-smiley-messages--v2/README.md) | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contex... |
+| `sermao-de-1-ponto-andy-stanley-talbot-davis` | `sermoes-pregacao` | Codex local / `local` | 13 | [64,6 KB](../packages/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis.zip) | [abrir](skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis/README.md) | Criar, revisar e preparar sermões de um ponto segundo Andy Stanley e Lane Jones, aprofundados por Talbot Davis em Simplify the Message: Multiply the Impact. Use para preparar, r... |
 | `sermon-batch-hub` | `sermoes-pregacao` | Codex local / `local` | 4 | [8,0 KB](../packages/sermoes-pregacao/sermon-batch-hub.zip) | [abrir](skills/sermoes-pregacao/sermon-batch-hub/README.md) | Generate sermon batches for the same biblical reference using one, several, or all installed preacher-style sermon skills. Use when the user wants the same passage preached in m... |
 | `sermon-batch-hub--v2` | `sermoes-pregacao` | Gemini local / `gemini` | 4 | [7,5 KB](../packages/sermoes-pregacao/sermon-batch-hub--v2.zip) | [abrir](skills/sermoes-pregacao/sermon-batch-hub--v2/README.md) | Generate sermon batches for the same biblical reference using one, several, or all installed preacher-style sermon skills. Use when the user wants the same passage preached in m... |
 | `sermon-pipeline` | `sermoes-pregacao` | Codex local / `local` | 4 | [9,9 KB](../packages/sermoes-pregacao/sermon-pipeline.zip) | [abrir](skills/sermoes-pregacao/sermon-pipeline/README.md) | Pipeline completo para pregações do Pr. Filipe Ivo Pereira: busca vídeos de uma playlist ou canal do YouTube, baixa transcrições reais, gera resumos homiléticos detalhados com C... |
@@ -361,6 +362,7 @@ Total de skills documentadas: **168**
 - [notion-roteiros-videos-cristaos](skills/sermoes-pregacao/notion-roteiros-videos-cristaos/README.md) - Use when the user wants to generate and insert five Christian short-video script ideas into the `🎬 Roteiros de Vídeo` Notion database, especially practical day-to-day themes for Christian leaders or members with `Tem...
 - [prepare-bob-smiley-messages](skills/sermoes-pregacao/prepare-bob-smiley-messages/README.md) - Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contextual data, and a biblical punch ending t...
 - [prepare-bob-smiley-messages--v2](skills/sermoes-pregacao/prepare-bob-smiley-messages--v2/README.md) - Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contextual data, and a biblical punch ending t...
+- [sermao-de-1-ponto-andy-stanley-talbot-davis](skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis/README.md) - Criar, revisar e preparar sermões de um ponto segundo Andy Stanley e Lane Jones, aprofundados por Talbot Davis em Simplify the Message: Multiply the Impact. Use para preparar, reestruturar, enxugar ou avaliar pregação...
 - [sermon-batch-hub](skills/sermoes-pregacao/sermon-batch-hub/README.md) - Generate sermon batches for the same biblical reference using one, several, or all installed preacher-style sermon skills. Use when the user wants the same passage preached in multiple styles, wants to choose one prea...
 - [sermon-batch-hub--v2](skills/sermoes-pregacao/sermon-batch-hub--v2/README.md) - Generate sermon batches for the same biblical reference using one, several, or all installed preacher-style sermon skills. Use when the user wants the same passage preached in multiple styles, wants to choose one prea...
 - [sermon-pipeline](skills/sermoes-pregacao/sermon-pipeline/README.md) - Pipeline completo para pregações do Pr. Filipe Ivo Pereira: busca vídeos de uma playlist ou canal do YouTube, baixa transcrições reais, gera resumos homiléticos detalhados com Claude e atualiza automaticamente o banco...
