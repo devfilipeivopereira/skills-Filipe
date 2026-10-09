@@ -4,9 +4,9 @@
     "strategy":  "Direct installable skill directories are selected; duplicate SKILL.md content is collapsed; divergent same-name content is retained as versioned package ids.",
     "counts":  {
                    "scanned_roots":  10,
-                   "discovered_candidates":  395,
-                   "selected_packages":  169,
-                   "generated_zips":  169
+                   "discovered_candidates":  396,
+                   "selected_packages":  170,
+                   "generated_zips":  170
                },
     "source_roots":  [
                          {
@@ -101,7 +101,7 @@
                        },
                        {
                            "category":  "sermoes-pregacao",
-                           "count":  61
+                           "count":  62
                        },
                        {
                            "category":  "sistema-agentes",
@@ -3039,6 +3039,22 @@
                        "duplicate_sources":  [
                                                  "C:\\Users\\filip\\.codex\\skills\\.system\\skill-installer"
                                              ]
+                   },
+                   {
+                       "package_id": "sermao-talbot-davis",
+                       "skill_name": "sermao-talbot-davis",
+                       "category": "sermoes-pregacao",
+                       "description": "Escreve, revisa e adapta sermões de um ponto segundo Talbot Davis em Simplify the Message, Multiply the Impact: Engage–Encounter–Empower, exegese com descoberta, frase central como refrão, aplicação concreta e proclamação de Cristo. Use para pedidos de sermão pelo método Davis, séries ou mensagens fúnebres nessa metodologia.",
+                       "source_kind": "Codex local",
+                       "namespace": "local",
+                       "source_path": "C:\\DEV\\SERMÃO 1 PONTO - ANDY\\skills\\sermao-talbot-davis",
+                       "copied_path": "skills/sermoes-pregacao/sermao-talbot-davis",
+                       "zip_path": "packages/sermoes-pregacao/sermao-talbot-davis.zip",
+                       "skill_md_sha256": "6bedcea7d215fba7003a3195db9249aac7a603fe35c59c076a66897cbd88aee9",
+                       "duplicate_source_count": 1,
+                       "duplicate_sources": [
+                           "C:\\DEV\\SERMÃO 1 PONTO - ANDY\\skills\\sermao-talbot-davis"
+                       ]
                    }
                ]
 }

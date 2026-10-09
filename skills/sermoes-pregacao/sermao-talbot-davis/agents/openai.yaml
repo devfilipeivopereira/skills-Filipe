@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sermões — Talbot Davis"
+  short_description: "Sermões de um ponto fiéis ao método de Talbot Davis"
+  default_prompt: "Use $sermao-talbot-davis para escrever um sermão fiel à metodologia de Simplify the Message, Multiply the Impact, a partir do texto bíblico e do contexto que eu fornecer."

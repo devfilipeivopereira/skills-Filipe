@@ -2,7 +2,7 @@
 
 Gerado em: `2026-10-08T10:00:38.6559820-03:00`
 
-Total de pacotes: **169**
+Total de pacotes: **170**
 
 | Pacote | Skill | Categoria | Origem | Zip | Descricao |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@ Total de pacotes: **169**
 | `prepare-bob-smiley-messages` | prepare-bob-smiley-messages | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/prepare-bob-smiley-messages.zip` | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous s... |
 | `prepare-bob-smiley-messages--v2` | prepare-bob-smiley-messages | `sermoes-pregacao` | Gemini local / `gemini` | `packages/sermoes-pregacao/prepare-bob-smiley-messages--v2.zip` | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous s... |
 | `sermao-de-1-ponto-andy-stanley-talbot-davis` | sermao-de-1-ponto-andy-stanley-talbot-davis | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis.zip` | Criar, revisar e preparar sermões de um ponto segundo Andy Stanley e Lane Jones, aprofundados por Talbot Davis em Simplify the Message: Multiply th... |
+| `sermao-talbot-davis` | sermao-talbot-davis | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/sermao-talbot-davis.zip` | Sermões de um ponto segundo Talbot Davis: Engage–Encounter–Empower, exegese, refrão, aplicação, séries, internalização e funerais. |
 | `sermon-batch-hub` | sermon-batch-hub | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/sermon-batch-hub.zip` | Generate sermon batches for the same biblical reference using one, several, or all installed preacher-style sermon skills. Use when the user wants ... |
 | `sermon-batch-hub--v2` | sermon-batch-hub | `sermoes-pregacao` | Gemini local / `gemini` | `packages/sermoes-pregacao/sermon-batch-hub--v2.zip` | Generate sermon batches for the same biblical reference using one, several, or all installed preacher-style sermon skills. Use when the user wants ... |
 | `sermon-pipeline` | sermon-pipeline | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/sermon-pipeline.zip` | > |

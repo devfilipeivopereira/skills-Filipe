@@ -27,7 +27,7 @@ Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook
 | editorial-ebooks-kdp | 11 |
 | notion-produtividade | 14 |
 | palestras-motivacao | 34 |
-| sermoes-pregacao | 61 |
+| sermoes-pregacao | 62 |
 | sistema-agentes | 24 |
 
 ## Romance adulto 30K para KDP
@@ -45,6 +45,14 @@ A skill `sermao-de-1-ponto-andy-stanley-talbot-davis` cria, reescreve e audita s
 - Skill: `skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis`
 - Pacote instalável: `packages/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis.zip`
 - Documentação: `docs/skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis/README.md`
+
+## Sermões segundo Talbot Davis
+
+A skill `sermao-talbot-davis` aplica a metodologia dos nove capítulos de *Simplify the Message, Multiply the Impact*. Organiza a mensagem em Engage–Encounter–Empower, com descoberta exegética, frase central como refrão, aplicações concretas e proclamação de Cristo. Inclui orientações para séries, internalização e funerais, distinguindo princípios do autor e adaptações operacionais.
+
+- [Skill](skills/sermoes-pregacao/sermao-talbot-davis/SKILL.md)
+- [Pacote instalável](packages/sermoes-pregacao/sermao-talbot-davis.zip)
+- [Documentação](docs/skills/sermoes-pregacao/sermao-talbot-davis/README.md)
 
 ## Como regenerar
 
