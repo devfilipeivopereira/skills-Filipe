@@ -30,13 +30,6 @@ Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook
 | sermoes-pregacao | 62 |
 | sistema-agentes | 24 |
 
-## Romance adulto 30K para KDP
-
-A skill `romance-adulto-30k` cria romances adultos originais em português brasileiro com exatamente 30.000 palavras de prosa ficcional e entrega EPUB 3 responsivo para Amazon KDP, capa JPEG incorporada e separada, metadados editoriais de Kang Arin e relatório de validação.
-
-- Skill: `skills/editorial-ebooks-kdp/romance-adulto-30k`
-- Pacote instalável: `packages/editorial-ebooks-kdp/romance-adulto-30k.zip`
-- Documentação: `docs/skills/editorial-ebooks-kdp/romance-adulto-30k/README.md`
 
 ## Sermão de 1 Ponto (Andy Stanley-Talbot Davis)
 
