@@ -49,7 +49,7 @@ A skill `sermao-talbot-davis` aplica a metodologia dos nove capítulos de *Simpl
 
 ## Estudo Bíblico Indutivo — Bauer e Traina
 
-A skill `estudo-biblico-indutivo` conduz o estudo de passagens e livros pelo método de David R. Bauer e Robert A. Traina. Inclui sete referências operacionais, modelo de relatório, critérios de revisão e o EPUB integral de referência dentro da pasta da skill e do ZIP instalável.
+A skill `estudo-biblico-indutivo` conduz o estudo de passagens e livros pelo método de David R. Bauer e Robert A. Traina. O fluxo completo exige pelo menos vinte comentários bíblicos distintos de referência comprovada e efetivamente consultados, com registro das fontes, e produz um sermão completo pela skill `generate-haddon-robinson-sermons`. Seus três ou quatro pontos principais geram três ou quatro sermões completos com `sermao-talbot-davis`. O estudo, as fontes, o Haddon e toda a série Talbot são entregues em um único `.md`. Inclui nove referências operacionais, modelo de relatório, critérios de revisão e o EPUB integral de referência dentro da pasta da skill e do ZIP instalável. Instale também as skills de Haddon Robinson e Talbot Davis.
 
 - [Skill](skills/sermoes-pregacao/estudo-biblico-indutivo/SKILL.md)
 - [Documentação](docs/skills/sermoes-pregacao/estudo-biblico-indutivo/README.md)

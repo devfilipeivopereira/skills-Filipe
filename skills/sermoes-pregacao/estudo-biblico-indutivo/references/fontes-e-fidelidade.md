@@ -46,7 +46,8 @@ As respectivas notas foram examinadas porque qualificam procedimentos importante
 - Organização em arquivos progressivos, tabelas de rastreabilidade, rótulos de estado e modelo de entrega são recursos operacionais desta skill.
 - Acesso digital a textos e léxicos pode substituir a cadeia impressa em inglês descrita no apêndice D, preservando identificação correta do lema e respeito ao contexto.
 - Registro do que foi realmente consultado, cobertura executada e limites do modelo evita simular leitura, pesquisa, competência linguística ou experiência espiritual.
-- Não há quantidade obrigatória de perguntas, páginas ou aplicações. A recomendação de três ou quatro comentários é atribuída ao manual e sujeita ao acesso declarado, sem fabricação de consultas.
+- Não há quantidade obrigatória de perguntas, páginas ou aplicações. O manual recomenda três ou quatro comentários; **o usuário elevou o requisito desta skill para pelo menos vinte comentários bíblicos distintos de referência comprovada e efetivamente consultados**, conforme `interpretacao.md`. Essa ampliação é uma preferência operacional do usuário, não uma regra atribuída ao manual. Falta de acesso exige declarar pesquisa pendente, não fabricar consultas nem reduzir o mínimo.
+- O **sermão com `generate-haddon-robinson-sermons`**, sua transformação em **série de três ou quatro sermões completos com `sermao-talbot-davis`** e a **entrega integral em um único `.md`** são ampliações solicitadas pelo usuário. As metodologias homiléticas pertencem às respectivas skills; o encadeamento e a correspondência de um sermão por ponto principal Haddon são adaptações desta integração, não regras atribuídas aos autores. Consulte `sermao-robinson.md` e `serie-talbot-davis.md` para o encaminhamento e os limites.
 
 ## Limite da promessa de fidelidade
 

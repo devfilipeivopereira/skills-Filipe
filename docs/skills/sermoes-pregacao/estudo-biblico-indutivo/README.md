@@ -19,11 +19,17 @@ Use para estudo bíblico indutivo, exegese completa de uma passagem, levantament
 2. Levanta o livro como um todo: materiais predominantes, divisões, relações estruturais, perguntas, passagens estratégicas e dados históricos internos.
 3. Examina as partes como totalidades e realiza observação focalizada ou análise do fluxo.
 4. Formula perguntas definitivas, racionais e implicacionais, selecionadas por relevância.
-5. Interpreta por evidências, premissas e inferências, com exame de alternativas e diálogo crítico com outros intérpretes.
+5. Interpreta por evidências, premissas e inferências, com exame de alternativas e diálogo crítico com pelo menos vinte comentários bíblicos distintos de referência comprovada e efetivamente consultados nas seções pertinentes.
 6. Integra o sentido original e avalia legitimidade, alcance, força e grau de concessão antes de aplicar.
 7. Propõe apropriação pessoal e comunitária e correlaciona o resultado com outras unidades, preservando sua contribuição própria.
+8. Identifica as consultas em registro numerado, distinguindo comentários lidos, fontes auxiliares, recomendações e acessos indisponíveis. Catálogos, espelhos e traduções da mesma obra não completam artificialmente o mínimo.
+9. Produz sermão original usando `$generate-haddon-robinson-sermons`, preservando a ideia exegética, a Big Idea, o propósito e o movimento IDEA. O manuscrito completo é o padrão; esboço depende do escopo escolhido pelo usuário.
+10. Transforma os três ou quatro pontos principais desse sermão em uma série de três ou quatro sermões completos com `$sermao-talbot-davis`, um por ponto, com descoberta, frase central e resposta próprias.
+11. Entrega estudo, fontes, Haddon, mapa da série e todos os manuscritos Talbot no mesmo e único `.md`; planejamento ou esboços não substituem os sermões.
 
 Inclui o inventário de 17 relações estruturais, os quinze tipos de evidência interpretativa e auditorias das falácias de interpretação, apropriação e correlação. A extensão se adapta ao pedido sem confundir um resumo ou estudo provisório com investigação completa.
+
+O mínimo de vinte comentários, o Haddon, a série Talbot e a entrega em um único `.md` são ampliações solicitadas pelo usuário, não exigências atribuídas ao manual de Bauer e Traina. Com menos de vinte consultas qualificadas ou sem qualquer manuscrito exigido e sua consolidação, o fluxo completo permanece pendente; os resultados disponíveis devem ser apresentados com seus limites.
 
 ## Estrutura do pacote
 
@@ -39,6 +45,8 @@ estudo-biblico-indutivo/
     correlacao.md
     modelo-estudo.md
     fontes-e-fidelidade.md
+    sermao-robinson.md
+    serie-talbot-davis.md
     fontes/
       inductive-bible-study-bauer-traina.epub
 ```
@@ -55,12 +63,18 @@ Expand-Archive -LiteralPath 'packages\sermoes-pregacao\estudo-biblico-indutivo.z
 
 Mantenha a árvore inteira do pacote, incluindo `references/fontes/`, para preservar os links e o acesso ao livro.
 
+Para a etapa Haddon, instale também a [skill de Haddon Robinson](../../../../skills/sermoes-pregacao/generate-haddon-robinson-sermons/SKILL.md), disponível no [pacote próprio](../../../../packages/sermoes-pregacao/generate-haddon-robinson-sermons.zip). Instale também a [skill Talbot Davis](../../../../skills/sermoes-pregacao/sermao-talbot-davis/SKILL.md), disponível no [pacote próprio](../../../../packages/sermoes-pregacao/sermao-talbot-davis.zip). O pacote do estudo referencia ambas as dependências sem duplicar seus arquivos. As metodologias são carregadas na execução; o contrato desta integração exige todos os conteúdos no mesmo `.md`. O destino segue a configuração vigente do Haddon, salvo escolha do usuário.
+
 ## Exemplos de uso
 
 ```text
 Use $estudo-biblico-indutivo para estudar João 15:1–17
 de forma completa para um grupo de adultos. Identifique a tradução,
-justifique as interpretações e aplicações e cite as fontes consultadas.
+justifique as interpretações e aplicações, consulte pelo menos vinte
+comentários bíblicos de referência comprovada e cite as consultas reais.
+Produza um sermão completo usando $generate-haddon-robinson-sermons.
+Transforme seus três ou quatro pontos principais em três ou quatro sermões
+completos com $sermao-talbot-davis. Entregue tudo no mesmo arquivo .md.
 ```
 
 ```text

@@ -93,13 +93,29 @@ Indique a conclusão em um parágrafo específico que responda à pergunta; regi
 
 ## 5. Diálogo comunitário e retorno ao texto
 
-A recomendação do capítulo 14 é consultar pelo menos três ou quatro comentários exegéticos. Procure diversidade que realmente amplie a análise: tradição, época, cultura e desacordo fundamentado. Fontes devocionais e homiléticas podem contribuir, mas não substituem uma discussão exegética quando não tratam de evidências e alternativas.
+A recomendação do capítulo 14 é consultar pelo menos três ou quatro comentários exegéticos. **Por exigência adicional do usuário, esta skill requer pelo menos vinte comentários bíblicos distintos de referência comprovada no estudo completo.** Não atribua esse mínimo de vinte a Bauer e Traina. Procure diversidade que realmente amplie a análise: tradição, época, cultura e desacordo fundamentado. O peso dos argumentos continua dependendo da evidência, não da contagem de votos entre comentaristas.
+
+### Qualificação e contagem das vinte consultas
+
+- **Referência comprovada:** identifique autor ou responsável editorial, título, edição/ano quando disponíveis e editora/série ou instituição responsável. Confirme a identidade e a procedência em fonte bibliográfica verificável, como a própria obra, editora, biblioteca ou instituição acadêmica. Justifique brevemente sua pertinência: competência do autor, série exegética reconhecida ou contribuição histórica documentada. Popularidade, seguidores e adjetivos como “renomado” não bastam.
+- **Consulta efetiva:** leia a seção exegética pertinente à passagem e registre o argumento realmente examinado. Não é necessário ler o volume inteiro; declare o recorte e eventuais lacunas. Catálogo comprova identidade, mas não consulta de conteúdo. Lista de recomendações, resumo de terceiros, memória e trecho isolado de resultado de busca não contam.
+- **Unidade contada:** cada comentário distinto à passagem conta uma vez. Reedição, tradução, espelho em outro site, volume complementar do mesmo comentário ao mesmo livro ou várias notas/tratados da mesma obra não multiplicam a contagem. Obra coletiva conta como um comentário; um agregador pode dar acesso a obras distintas, desde que autoria e conteúdo de cada uma sejam verificados separadamente.
+- **Pertinência exegética:** conte obras que discutam o texto e suas razões interpretativas. Bíblias de estudo podem contar quando suas notas pertinentes constituírem comentário identificável e substancial. Léxicos, concordâncias, introduções, manuais de método, sermões prontos e devocionais sem discussão exegética são auxiliares e não completam o mínimo.
+- **Cobertura:** no estudo de um livro, distribua as consultas pelas unidades e registre quais trechos cada obra cobre; vinte títulos relacionados ao livro, sem leitura das seções pertinentes ao escopo estudado, não bastam.
+
+Inclua no relatório um registro numerado das consultas qualificadas, sem preencher linhas com obras apenas recomendadas:
+
+| Nº | Autor, título e edição | Procedência e referência comprovada | Seção realmente lida e acesso | Argumento e efeito sobre o estudo |
+|---|---|---|---|---|
+| Registro de consulta efetiva | Dados verificáveis | Editora/série/instituição e link ou localização bibliográfica | Passagem, páginas/seção, URL ou arquivo e limites | Confirmação, correção, ampliação ou discordância justificada |
+
+Identifique ao final o total de comentários distintos que satisfazem os critérios. Liste separadamente fontes auxiliares, obras recomendadas e acessos indisponíveis.
 
 Para cada contribuição usada, registre: tese; evidência apresentada; modo de inferir; alternativa considerada; resultado da interação com seu estudo. O diálogo pode **confirmar, corrigir, esclarecer ou ampliar**. Autores e consenso não são infalíveis, mas discordar de trabalho especializado exige boa sustentação.
 
 Prioridade ao estudo direto não significa proibição absoluta de consulta inicial. A nota 14.130 admite uma orientação breve quando a passagem é tão obscura que o leitor não consegue começar. Também admite o retorno espiral: texto → fontes → texto. Declare esse uso; não apresente uma ideia recebida como descoberta independente.
 
-Sem acesso às fontes necessárias, realize a análise possível e declare a verificação comunitária pendente. Não invente uma bibliografia “consultada” para cumprir o número recomendado.
+Se houver menos de vinte consultas qualificadas, continue a pesquisa nos recursos disponíveis e apresente o que foi possível como **estudo parcial/provisório — pesquisa de comentários pendente**, com o total real e as lacunas. Não reduza silenciosamente o mínimo, não troque consulta por catálogo e não invente uma bibliografia “consultada”. Não adquira acesso pago sem autorização. Preserve o trabalho já realizado; só declare o fluxo completo depois de suprir as consultas e as demais etapas exigidas.
 
 ## 6. Integração do sentido
 

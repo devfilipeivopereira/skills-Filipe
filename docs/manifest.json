@@ -3060,13 +3060,13 @@
                        "package_id": "estudo-biblico-indutivo",
                        "skill_name": "estudo-biblico-indutivo",
                        "category": "sermoes-pregacao",
-                       "description": "Estudo bíblico indutivo completo segundo Bauer e Traina, com levantamento do livro, observação, interpretação por evidências, avaliação, apropriação, correlação e EPUB de referência incluído.",
+                       "description": "Estudo indutivo segundo Bauer e Traina, vinte comentários comprovados, EPUB, sermão Haddon e série de três ou quatro sermões Talbot completos em um único .md.",
                        "source_kind": "Codex local",
                        "namespace": "local",
                        "source_path": "C:\\Users\\filip\\.codex\\skills\\estudo-biblico-indutivo",
                        "copied_path": "skills/sermoes-pregacao/estudo-biblico-indutivo",
                        "zip_path": "packages/sermoes-pregacao/estudo-biblico-indutivo.zip",
-                       "skill_md_sha256": "343cc1b0072d241ef065ca40e11ac0fd9c5a829a022a1d837a001383ec11ac2d",
+                       "skill_md_sha256": "45eae4ad6f46f4c37f489324a45ca067fb3656906e75d5b08ad9b4a486c30e82",
                        "duplicate_source_count": 1,
                        "duplicate_sources": [
                            "C:\\Users\\filip\\.codex\\skills\\estudo-biblico-indutivo"
