@@ -1,4 +1,4 @@
 interface:
   display_name: "Estudo Bíblico Indutivo"
-  short_description: "Estudo, sermão Haddon e série Talbot em um Markdown"
-  default_prompt: "Use $estudo-biblico-indutivo para estudar a passagem pelo método de Bauer e Traina, consultar pelo menos vinte comentários bíblicos de referência comprovada e justificar interpretações e aplicações. Produza o sermão completo com $generate-haddon-robinson-sermons e transforme seus três ou quatro pontos principais em três ou quatro sermões completos com $sermao-talbot-davis. Entregue estudo, fontes, Haddon e toda a série Talbot em um único arquivo .md."
+  short_description: "Estudo, sermão Haddon e cinco planejamentos Talbot em um Markdown"
+  default_prompt: "Use $estudo-biblico-indutivo para estudar a passagem pelo método de Bauer e Traina, consultar pelo menos vinte comentários bíblicos de referência comprovada e justificar interpretações e aplicações. Produza o sermão completo com $generate-haddon-robinson-sermons e planeje exatamente cinco séries detalhadas com $sermao-talbot-davis, usando frases de alto impacto não clichês baseadas no Haddon. Entregue estudo, fontes, Haddon e os cinco planejamentos em um único arquivo .md."

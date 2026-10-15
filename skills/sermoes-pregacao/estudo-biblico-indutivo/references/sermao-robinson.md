@@ -24,7 +24,7 @@ Execute o método completo da dependência, preservando:
 
 Produza um sermão original depois do estudo e antes da série Talbot Davis. O padrão é o manuscrito completo segundo os requisitos vigentes da skill de pregação; entregue somente esboço se esse tiver sido o escopo escolhido pelo usuário. Não substitua o estudo por sermão nem trate uma lista de aplicações como manuscrito.
 
-No planejamento, procure uma estrutura de três ou quatro pontos principais que respeite o desenvolvimento bíblico, sem fabricar divisões. Ao concluir, registre a redação definitiva, a ordem e a base textual de cada ponto principal; não conte introdução, conclusão, subpontos, ilustrações ou operações IDEA como pontos adicionais. Encaminhe o manuscrito integral, sua ficha e esse mapa à etapa de [série Talbot Davis](serie-talbot-davis.md). A série deriva do conteúdo efetivamente desenvolvido, não de uma lista de temas criada em paralelo.
+No planejamento, procure uma estrutura de pontos principais que respeite o desenvolvimento bíblico, sem fabricar divisões. Ao concluir, registre a redação definitiva, a ordem e a base textual de cada ponto principal; não conte introdução, conclusão, subpontos, ilustrações ou operações IDEA como pontos adicionais. Encaminhe o manuscrito integral, sua ficha e esse mapa à etapa de [planejamento de cinco séries Talbot Davis](serie-talbot-davis.md). As propostas devem derivar do conteúdo efetivamente desenvolvido, não de uma lista de temas criada em paralelo.
 
 ## Fidelidade e conclusão
 

@@ -24,13 +24,13 @@ Use para estudo bíblico indutivo, exegese completa de uma passagem, levantament
 7. Propõe apropriação pessoal e comunitária e correlaciona o resultado com outras unidades, preservando sua contribuição própria.
 8. Identifica as consultas em registro numerado, distinguindo comentários lidos, fontes auxiliares, recomendações e acessos indisponíveis. Catálogos, espelhos e traduções da mesma obra não completam artificialmente o mínimo.
 9. Produz sermão original usando `$generate-haddon-robinson-sermons`, preservando a ideia exegética, a Big Idea, o propósito e o movimento IDEA. O manuscrito completo é o padrão; esboço depende do escopo escolhido pelo usuário.
-10. Transforma os três ou quatro pontos principais desse sermão em uma série de três ou quatro sermões completos com `$sermao-talbot-davis`, um por ponto, com descoberta, frase central e resposta próprias.
-11. Entrega estudo, fontes, Haddon, mapa da série e todos os manuscritos Talbot no mesmo e único `.md`; planejamento ou esboços não substituem os sermões.
-12. No fluxo completo, escreve cada sermão Talbot para aproximadamente 50 minutos de fala, com duração estimada documentada e bottom line própria, não clichê, lapidada segundo o livro anexado e as referências da skill.
+10. Usa `$sermao-talbot-davis` para planejar exatamente cinco séries diferentes com base no sermão Haddon, cada uma com conceito, arco, encontros, passagens, tensões, descobertas, aplicações, continuidade e frases de alto impacto.
+11. Entrega estudo, fontes, Haddon, mapas das cinco séries e todos os planejamentos Talbot no mesmo e único `.md`; não gera manuscritos Talbot completos nesta etapa.
+12. As frases de alto impacto são próprias, não clichês, e lapidadas segundo o livro anexado e as referências da metodologia.
 
 Inclui o inventário de 17 relações estruturais, os quinze tipos de evidência interpretativa e auditorias das falácias de interpretação, apropriação e correlação. A extensão se adapta ao pedido sem confundir um resumo ou estudo provisório com investigação completa.
 
-O mínimo de vinte comentários, o Haddon, a série Talbot e a entrega em um único `.md` são ampliações solicitadas pelo usuário, não exigências atribuídas ao manual de Bauer e Traina. Com menos de vinte consultas qualificadas ou sem qualquer manuscrito exigido e sua consolidação, o fluxo completo permanece pendente; os resultados disponíveis devem ser apresentados com seus limites.
+O mínimo de vinte comentários, o Haddon, as cinco séries Talbot e a entrega em um único `.md` são ampliações solicitadas pelo usuário, não exigências atribuídas ao manual de Bauer e Traina. Com menos de vinte consultas qualificadas, sem o Haddon, sem qualquer planejamento exigido ou sem sua consolidação, o fluxo completo permanece pendente; os resultados disponíveis devem ser apresentados com seus limites.
 
 ## Estrutura do pacote
 
@@ -74,8 +74,9 @@ de forma completa para um grupo de adultos. Identifique a tradução,
 justifique as interpretações e aplicações, consulte pelo menos vinte
 comentários bíblicos de referência comprovada e cite as consultas reais.
 Produza um sermão completo usando $generate-haddon-robinson-sermons.
-Transforme seus três ou quatro pontos principais em três ou quatro sermões
-completos com $sermao-talbot-davis. Entregue tudo no mesmo arquivo .md.
+Planeje cinco séries diferentes com $sermao-talbot-davis, com frases de alto
+impacto, não clichês, e detalhes suficientes para futura redação dos encontros.
+Entregue tudo no mesmo arquivo .md.
 ```
 
 ```text

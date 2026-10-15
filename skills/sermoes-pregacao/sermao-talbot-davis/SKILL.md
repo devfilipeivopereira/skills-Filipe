@@ -21,7 +21,7 @@ Produza sermões biblicamente fundamentados, orais e memoráveis, com uma verdad
 
 **Revisão:** use a mesma referência e a auditoria ao final desta skill. Se o pedido for somente avaliação, não substitua o manuscrito inteiro. Se pedir transformação, entregue a versão reescrita, não apenas sugestões.
 
-**Série:** leia também [series.md](references/series.md). Cada mensagem continua tendo um ponto próprio.
+**Série:** leia também [series.md](references/series.md). Se o pedido for **planejamento de séries**, entregue a arquitetura detalhada solicitada, sem converter automaticamente o planejamento em manuscritos completos. No fluxo integrado com `estudo-biblico-indutivo`, o produto é exatamente cinco propostas de séries baseadas no sermão Haddon concluído, cada uma com conceito, arco, encontros, passagens, tensões, descobertas, frases de alto impacto, aplicações e continuidade. Cada mensagem planejada continua tendo um ponto próprio.
 
 **Funeral ou memorial:** leia [funerais.md](references/funerais.md) antes de escrever. Esse modo adapta a ordem normal e não recebe automaticamente o apelo público de conversão do capítulo 9.
 
@@ -85,7 +85,7 @@ Use frases respiradas, linguagem da audiência, transições naturais e imagens 
 
 Mantenha a redação exata do refrão, sem transformar cada retorno em um novo slogan. Abertura, descoberta, aplicações e conclusão devem trabalhar pela mesma ideia.
 
-Se houver duração solicitada, ajuste a extensão e indique que a duração é estimada. No fluxo integrado de estudo indutivo → Haddon Robinson → série Talbot Davis, cada manuscrito Talbot deve ser escrito para aproximadamente **50 minutos de fala**, salvo duração diferente solicitada expressamente pelo usuário. Planeje a extensão com base em ritmo oral plausível, pausas, leitura bíblica e momentos de resposta; um manuscrito de 50 minutos exige vários milhares de palavras, não um esboço expandido. Informe a contagem aproximada e o cálculo usado, sem tratar a estimativa como fórmula de Davis.
+Se houver duração solicitada para um **manuscrito**, ajuste a extensão e indique que a duração é estimada. Quando o pedido for apenas planejamento de séries, indique uma faixa provável para os futuros encontros se isso ajudar, mas não escreva manuscritos completos nem imponha 50 minutos de texto ao planejamento. Quando um manuscrito Talbot for solicitado no fluxo integrado, escreva-o para aproximadamente **50 minutos de fala**, salvo duração diferente solicitada expressamente pelo usuário. Planeje a extensão com base em ritmo oral plausível, pausas, leitura bíblica e momentos de resposta; um manuscrito de 50 minutos exige vários milhares de palavras, não um esboço expandido. Informe a contagem aproximada e o cálculo usado, sem tratar a estimativa como fórmula de Davis.
 
 As **bottom lines/frases centrais** devem ser descobertas e lapidadas para aquela mensagem. Não use clichês religiosos, slogans genéricos, rimas artificiais ou frases intercambiáveis entre encontros. Trabalhe contraste, cadência, jogo de palavras, preposições e imagens somente quando forem naturais em português e fiéis ao texto. Aplique as recomendações do livro fornecido pelo usuário e das referências desta skill; não atribua ao livro regras que ele não estabelece. Cada sermão deve ter uma frase governante própria, memorável sem ser banal, retomada com variação funcional ao longo do manuscrito.
 

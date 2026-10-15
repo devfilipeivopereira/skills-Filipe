@@ -76,17 +76,17 @@ Apresente o registro numerado dos pelo menos vinte comentários qualificados: au
 
 Depois do relatório e do registro de fontes, entregue o sermão pela skill `generate-haddon-robinson-sermons`, conforme `sermao-robinson.md`. Apresente ideia exegética, sujeito/complemento, Big Idea, propósito, resultados esperados e estrutura; então inclua a introdução, o corpo e a conclusão completos. Mostre a ligação entre as afirmações centrais e as conclusões sustentadas no estudo. Registre os três ou quatro pontos principais definitivos, sua ordem e base textual para a etapa seguinte. Um esboço só substitui o manuscrito quando esse for o escopo explicitamente escolhido pelo usuário, fora do fluxo completo padrão.
 
-## 13. Série completa — Talbot Davis
+## 13. Cinco planejamentos de série — Talbot Davis
 
-Execute `sermao-talbot-davis` conforme [serie-talbot-davis.md](serie-talbot-davis.md), usando o conteúdo do Haddon concluído. Três pontos principais geram três sermões completos; quatro pontos principais geram quatro. Apresente conceito, necessidade e objetivo da série, seguidos do mapa:
+Execute `sermao-talbot-davis` conforme [serie-talbot-davis.md](serie-talbot-davis.md), usando o conteúdo do Haddon concluído. Produza **exatamente cinco propostas de séries diferentes**, não sermões completos. Cada proposta deve apresentar conceito, necessidade, objetivo, eixo bíblico e mapa detalhado de encontros:
 
-| Ponto principal do Haddon e localização | Fundamento no estudo e texto | Encontro e título | Frase central própria | Resposta e progressão |
+| Big Idea/ponto(s) do Haddon e localização | Fundamento no estudo e texto | Série, encontros e títulos | Frases de alto impacto próprias | Respostas, progressão e distinção estratégica |
 |---|---|---|---|---|
 | Ponto efetivamente desenvolvido | Conclusão sustentada e referências | Número correspondente | Uma proposição ou pergunta | Aplicação e ligação com a série |
 
-A tabela é preparação, não a série pronta. Depois dela, inclua, para **cada encontro**, ficha breve e manuscrito completo com abertura, descoberta textual, refrão estável, aplicação substancial, Cristo como fundamento e conclusão. Use o movimento Engage–Encounter–Empower sem anunciá-lo como três teses. Cada mensagem desenvolve um ponto Haddon com unidade própria; não é um recorte do manuscrito de origem nem uma repetição do sermão inteiro.
+A tabela é preparação, não a série pronta. Depois dela, inclua, para **cada uma das cinco propostas**, ficha detalhada, número e ordem dos encontros, passagens, tensão, descoberta textual, frase de alto impacto, resposta, aplicação, Cristo como fundamento, uso do movimento Engage–Encounter–Empower e ponte de continuidade. Não escreva manuscritos Talbot completos nesta etapa; o planejamento deve ser detalhado o bastante para permitir sua redação posterior sem ser apenas um título ou calendário.
 
-No fluxo completo, cada manuscrito Talbot deve ter extensão para aproximadamente 50 minutos de fala, com duração e estimativa documentadas. A ficha deve registrar a bottom line final e, quando pertinente, as decisões de lapidação baseadas no livro anexado e nas referências da skill. A auditoria deve rejeitar frases genéricas, clichês, slogans artificiais e manuscritos que sejam apenas esboços.
+Não imponha 50 minutos de manuscrito nesta etapa de planejamento. Quando útil, indique a duração prevista de cada encontro para uma futura redação. A ficha deve registrar a bottom line final e, quando pertinente, as decisões de lapidação baseadas no livro anexado e nas referências da skill. A auditoria deve rejeitar frases genéricas, clichês, slogans artificiais e planejamentos que sejam apenas esboços vazios.
 
 ## 14. Consolidação da entrega
 
@@ -110,10 +110,10 @@ Verifique resultados observáveis, não só presença de títulos:
 12. O grau de completude declarado corresponde à execução real e às pendências?
 13. Há pelo menos vinte comentários distintos qualificados, com procedência comprovada e leitura pertinente rastreável, sem contar duplicatas ou fontes auxiliares?
 14. O Haddon completo foi produzido após o estudo, com carregamento efetivo da skill de Haddon Robinson e fidelidade às conclusões exegéticas e aos limites declarados?
-15. A skill Talbot Davis e suas referências foram carregadas? Cada um dos três ou quatro pontos principais Haddon corresponde a um sermão Talbot integral, sem contar subpontos, introdução ou conclusão como encontros extras?
-16. Cada Talbot tem uma única frase governante, descoberta bíblica, percurso próprio, aplicações e conclusão escritos? O texto foi recomposto, em vez de apenas recortado ou reduzido a plano de série?
-17. Cada manuscrito Talbot foi dimensionado para aproximadamente 50 minutos de fala, com estimativa coerente e texto suficiente?
-18. As bottom lines são próprias, não clichês, e mostram lapidação orientada pelas recomendações do livro anexado?
-19. O único `.md` salvo contém o estudo, as fontes, o Haddon completo, o mapa e todos os sermões Talbot completos, sem placeholders, remissões externas substitutivas ou encontros faltantes?
+15. A skill Talbot Davis e suas referências foram carregadas? Existem exatamente cinco propostas de série baseadas no Haddon?
+16. As cinco propostas são estrategicamente distintas, cada uma com arco, encontros, passagens, tensões, descobertas, aplicações, Cristo e continuidade?
+17. Cada encontro planejado tem uma frase de alto impacto própria, específica, não clichê e lapidada segundo o livro anexado?
+18. O planejamento usa Engage–Encounter–Empower sem transformar os movimentos em pontos artificiais e preserva os limites do estudo?
+19. O único `.md` salvo contém o estudo, as fontes, o Haddon completo, os cinco planejamentos Talbot completos e nenhum placeholder substitutivo?
 
 Corrija o estudo antes de entregá-lo quando uma falha afetar a conclusão. Uma lista marcada sem evidências não substitui revisão.
