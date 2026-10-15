@@ -2,7 +2,7 @@
 
 Gerado em: `2026-10-08T10:00:38.6559820-03:00`
 
-Total de skills documentadas: **170**
+Total de skills documentadas: **171**
 
 ## Como usar este indice
 
@@ -21,7 +21,7 @@ Total de skills documentadas: **170**
 | Editorial, Ebooks e KDP (`editorial-ebooks-kdp`) | 11 | `skills/editorial-ebooks-kdp` |
 | Notion e Produtividade (`notion-produtividade`) | 14 | `skills/notion-produtividade` |
 | Palestras e Motivacao (`palestras-motivacao`) | 34 | `skills/palestras-motivacao` |
-| Sermoes e Pregacao (`sermoes-pregacao`) | 62 | `skills/sermoes-pregacao` |
+| Sermoes e Pregacao (`sermoes-pregacao`) | 63 | `skills/sermoes-pregacao` |
 | Sistema e Agentes (`sistema-agentes`) | 24 | `skills/sistema-agentes` |
 
 ## Tabela geral
@@ -114,6 +114,7 @@ Total de skills documentadas: **170**
 | `todos-os-pregadores` | `palestras-motivacao` | Codex local / `local` | 85 | [359,3 KB](../packages/palestras-motivacao/todos-os-pregadores.zip) | [abrir](skills/palestras-motivacao/todos-os-pregadores/README.md) | Use when generating sermons or talks across many preacher/speaker styles, producing one Markdown file per style and a final ZIP package. |
 | `collect-generated-sermons` | `sermoes-pregacao` | Codex local / `local` | 3 | [3,0 KB](../packages/sermoes-pregacao/collect-generated-sermons.zip) | [abrir](skills/sermoes-pregacao/collect-generated-sermons/README.md) | Copy generated sermon `.docx` files from the `outputs` folders inside sermon skills whose names start with `generate-` under `C:\Users\filip\.codex\skills` into `C:\Users\filip\... |
 | `collect-generated-sermons--v2` | `sermoes-pregacao` | Gemini local / `gemini` | 3 | [2,4 KB](../packages/sermoes-pregacao/collect-generated-sermons--v2.zip) | [abrir](skills/sermoes-pregacao/collect-generated-sermons--v2/README.md) | Copy generated sermon `.docx` files from the `outputs` folders inside sermon skills whose names start with `generate-` under `C:\Users\filip\.codex\skills` into `C:\Users\filip\... |
+| `estudo-biblico-indutivo` | `sermoes-pregacao` | Codex local / `local` | 10 | [2,85 MB](../packages/sermoes-pregacao/estudo-biblico-indutivo.zip) | [abrir](skills/sermoes-pregacao/estudo-biblico-indutivo/README.md) | Estudo bíblico indutivo completo segundo Bauer e Traina, com levantamento do livro, observação, interpretação por evidências, avaliação, apropriação, correlação e EPUB de referência incluído. |
 | `generate-alyce-mckenzie-sermons` | `sermoes-pregacao` | Codex local / `local` | 8 | [13,0 KB](../packages/sermoes-pregacao/generate-alyce-mckenzie-sermons.zip) | [abrir](skills/sermoes-pregacao/generate-alyce-mckenzie-sermons/README.md) | Generate sermon outlines and full sermon manuscripts using Alyce McKenzie's scenic preaching method, including scenic immersion, the three scapes of inscape, landscape, and text... |
 | `generate-alyce-mckenzie-sermons--v2` | `sermoes-pregacao` | Gemini local / `gemini` | 8 | [12,5 KB](../packages/sermoes-pregacao/generate-alyce-mckenzie-sermons--v2.zip) | [abrir](skills/sermoes-pregacao/generate-alyce-mckenzie-sermons--v2/README.md) | Generate sermon outlines and full sermon manuscripts using Alyce McKenzie's scenic preaching method, including scenic immersion, the three scapes of inscape, landscape, and text... |
 | `generate-andy-stanley-sermons` | `sermoes-pregacao` | Codex local / `local` | 8 | [13,1 KB](../packages/sermoes-pregacao/generate-andy-stanley-sermons.zip) | [abrir](skills/sermoes-pregacao/generate-andy-stanley-sermons/README.md) | Generate sermon outlines and full sermon manuscripts using Andy Stanley's authentic Communicating for a Change methodology, including one point, one Bottom Line, and the ME-WE-G... |
@@ -310,6 +311,7 @@ Total de skills documentadas: **170**
 
 - [collect-generated-sermons](skills/sermoes-pregacao/collect-generated-sermons/README.md) - Copy generated sermon `.docx` files from the `outputs` folders inside sermon skills whose names start with `generate-` under `C:\Users\filip\.codex\skills` into `C:\Users\filip\OneDrive\Área de Trabalho\Sermoes_Gerado...
 - [collect-generated-sermons--v2](skills/sermoes-pregacao/collect-generated-sermons--v2/README.md) - Copy generated sermon `.docx` files from the `outputs` folders inside sermon skills whose names start with `generate-` under `C:\Users\filip\.codex\skills` into `C:\Users\filip\OneDrive\Área de Trabalho\Sermoes_Gerado...
+- [estudo-biblico-indutivo](skills/sermoes-pregacao/estudo-biblico-indutivo/README.md) - Estudo bíblico indutivo completo segundo Bauer e Traina, com levantamento do livro, observação, interpretação por evidências, avaliação, apropriação, correlação e EPUB de referência incluído.
 - [generate-alyce-mckenzie-sermons](skills/sermoes-pregacao/generate-alyce-mckenzie-sermons/README.md) - Generate sermon outlines and full sermon manuscripts using Alyce McKenzie's scenic preaching method, including scenic immersion, the three scapes of inscape, landscape, and textscape, the knack for noticing, scene-bui...
 - [generate-alyce-mckenzie-sermons--v2](skills/sermoes-pregacao/generate-alyce-mckenzie-sermons--v2/README.md) - Generate sermon outlines and full sermon manuscripts using Alyce McKenzie's scenic preaching method, including scenic immersion, the three scapes of inscape, landscape, and textscape, the knack for noticing, scene-bui...
 - [generate-andy-stanley-sermons](skills/sermoes-pregacao/generate-andy-stanley-sermons/README.md) - Generate sermon outlines and full sermon manuscripts using Andy Stanley's authentic Communicating for a Change methodology, including one point, one Bottom Line, and the ME-WE-GOD-YOU-WE communication map. Use when th...

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Estudo Bíblico Indutivo"
+  short_description: "Estudo completo segundo Bauer e Traina"
+  default_prompt: "Use $estudo-biblico-indutivo para estudar a passagem indicada pelo método de Bauer e Traina, justificando as interpretações e aplicações pelo texto."

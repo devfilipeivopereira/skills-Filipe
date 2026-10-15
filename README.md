@@ -1,6 +1,6 @@
 ﻿# Skills Filipe
 
-Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook, atualizada em 2026-10-08.
+Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook, atualizada em 2026-10-15.
 
 ## O que tem aqui
 
@@ -27,7 +27,7 @@ Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook
 | editorial-ebooks-kdp | 11 |
 | notion-produtividade | 14 |
 | palestras-motivacao | 34 |
-| sermoes-pregacao | 62 |
+| sermoes-pregacao | 63 |
 | sistema-agentes | 24 |
 
 
@@ -46,6 +46,15 @@ A skill `sermao-talbot-davis` aplica a metodologia dos nove capítulos de *Simpl
 - [Skill](skills/sermoes-pregacao/sermao-talbot-davis/SKILL.md)
 - [Pacote instalável](packages/sermoes-pregacao/sermao-talbot-davis.zip)
 - [Documentação](docs/skills/sermoes-pregacao/sermao-talbot-davis/README.md)
+
+## Estudo Bíblico Indutivo — Bauer e Traina
+
+A skill `estudo-biblico-indutivo` conduz o estudo de passagens e livros pelo método de David R. Bauer e Robert A. Traina. Inclui sete referências operacionais, modelo de relatório, critérios de revisão e o EPUB integral de referência dentro da pasta da skill e do ZIP instalável.
+
+- [Skill](skills/sermoes-pregacao/estudo-biblico-indutivo/SKILL.md)
+- [Documentação](docs/skills/sermoes-pregacao/estudo-biblico-indutivo/README.md)
+- [Pacote com EPUB](packages/sermoes-pregacao/estudo-biblico-indutivo.zip)
+- [Livro de referência](skills/sermoes-pregacao/estudo-biblico-indutivo/references/fontes/inductive-bible-study-bauer-traina.epub)
 
 ## Como regenerar
 

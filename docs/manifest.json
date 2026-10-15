@@ -4,9 +4,9 @@
     "strategy":  "Direct installable skill directories are selected; duplicate SKILL.md content is collapsed; divergent same-name content is retained as versioned package ids.",
     "counts":  {
                    "scanned_roots":  10,
-                   "discovered_candidates":  396,
-                   "selected_packages":  170,
-                   "generated_zips":  170
+                   "discovered_candidates":  397,
+                   "selected_packages":  171,
+                   "generated_zips":  171
                },
     "source_roots":  [
                          {
@@ -101,7 +101,7 @@
                        },
                        {
                            "category":  "sermoes-pregacao",
-                           "count":  62
+                           "count":  63
                        },
                        {
                            "category":  "sistema-agentes",
@@ -3054,6 +3054,22 @@
                        "duplicate_source_count": 1,
                        "duplicate_sources": [
                            "C:\\DEV\\SERMÃO 1 PONTO - ANDY\\skills\\sermao-talbot-davis"
+                       ]
+                   },
+                   {
+                       "package_id": "estudo-biblico-indutivo",
+                       "skill_name": "estudo-biblico-indutivo",
+                       "category": "sermoes-pregacao",
+                       "description": "Estudo bíblico indutivo completo segundo Bauer e Traina, com levantamento do livro, observação, interpretação por evidências, avaliação, apropriação, correlação e EPUB de referência incluído.",
+                       "source_kind": "Codex local",
+                       "namespace": "local",
+                       "source_path": "C:\\Users\\filip\\.codex\\skills\\estudo-biblico-indutivo",
+                       "copied_path": "skills/sermoes-pregacao/estudo-biblico-indutivo",
+                       "zip_path": "packages/sermoes-pregacao/estudo-biblico-indutivo.zip",
+                       "skill_md_sha256": "343cc1b0072d241ef065ca40e11ac0fd9c5a829a022a1d837a001383ec11ac2d",
+                       "duplicate_source_count": 1,
+                       "duplicate_sources": [
+                           "C:\\Users\\filip\\.codex\\skills\\estudo-biblico-indutivo"
                        ]
                    }
                ]

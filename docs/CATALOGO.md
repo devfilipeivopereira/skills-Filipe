@@ -2,7 +2,7 @@
 
 Gerado em: `2026-10-08T10:00:38.6559820-03:00`
 
-Total de pacotes: **170**
+Total de pacotes: **171**
 
 | Pacote | Skill | Categoria | Origem | Zip | Descricao |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@ Total de pacotes: **170**
 | `todos-os-pregadores` | todos-os-pregadores | `palestras-motivacao` | Codex local / `local` | `packages/palestras-motivacao/todos-os-pregadores.zip` | Use when generating sermons or talks across many preacher/speaker styles, producing one Markdown file per style and a final ZIP package. |
 | `collect-generated-sermons` | collect-generated-sermons | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/collect-generated-sermons.zip` | Copy generated sermon `.docx` files from the `outputs` folders inside sermon skills whose names start with `generate-` under `C:\Users\filip\.codex... |
 | `collect-generated-sermons--v2` | collect-generated-sermons | `sermoes-pregacao` | Gemini local / `gemini` | `packages/sermoes-pregacao/collect-generated-sermons--v2.zip` | Copy generated sermon `.docx` files from the `outputs` folders inside sermon skills whose names start with `generate-` under `C:\Users\filip\.codex... |
+| `estudo-biblico-indutivo` | estudo-biblico-indutivo | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/estudo-biblico-indutivo.zip` | Estudo bíblico indutivo completo segundo Bauer e Traina, com levantamento do livro, observação, interpretação por evidências, avaliação, apropriação, correlação e EPUB de referência incluído. |
 | `generate-alyce-mckenzie-sermons` | generate-alyce-mckenzie-sermons | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/generate-alyce-mckenzie-sermons.zip` | Generate sermon outlines and full sermon manuscripts using Alyce McKenzie's scenic preaching method, including scenic immersion, the three scapes o... |
 | `generate-alyce-mckenzie-sermons--v2` | generate-alyce-mckenzie-sermons | `sermoes-pregacao` | Gemini local / `gemini` | `packages/sermoes-pregacao/generate-alyce-mckenzie-sermons--v2.zip` | Generate sermon outlines and full sermon manuscripts using Alyce McKenzie's scenic preaching method, including scenic immersion, the three scapes o... |
 | `generate-andy-stanley-sermons` | generate-andy-stanley-sermons | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/generate-andy-stanley-sermons.zip` | Generate sermon outlines and full sermon manuscripts using Andy Stanley's authentic Communicating for a Change methodology, including one point, on... |
