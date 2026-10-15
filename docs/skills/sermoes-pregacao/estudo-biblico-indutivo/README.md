@@ -26,6 +26,7 @@ Use para estudo bíblico indutivo, exegese completa de uma passagem, levantament
 9. Produz sermão original usando `$generate-haddon-robinson-sermons`, preservando a ideia exegética, a Big Idea, o propósito e o movimento IDEA. O manuscrito completo é o padrão; esboço depende do escopo escolhido pelo usuário.
 10. Transforma os três ou quatro pontos principais desse sermão em uma série de três ou quatro sermões completos com `$sermao-talbot-davis`, um por ponto, com descoberta, frase central e resposta próprias.
 11. Entrega estudo, fontes, Haddon, mapa da série e todos os manuscritos Talbot no mesmo e único `.md`; planejamento ou esboços não substituem os sermões.
+12. No fluxo completo, escreve cada sermão Talbot para aproximadamente 50 minutos de fala, com duração estimada documentada e bottom line própria, não clichê, lapidada segundo o livro anexado e as referências da skill.
 
 Inclui o inventário de 17 relações estruturais, os quinze tipos de evidência interpretativa e auditorias das falácias de interpretação, apropriação e correlação. A extensão se adapta ao pedido sem confundir um resumo ou estudo provisório com investigação completa.
 

@@ -86,6 +86,8 @@ Execute `sermao-talbot-davis` conforme [serie-talbot-davis.md](serie-talbot-davi
 
 A tabela é preparação, não a série pronta. Depois dela, inclua, para **cada encontro**, ficha breve e manuscrito completo com abertura, descoberta textual, refrão estável, aplicação substancial, Cristo como fundamento e conclusão. Use o movimento Engage–Encounter–Empower sem anunciá-lo como três teses. Cada mensagem desenvolve um ponto Haddon com unidade própria; não é um recorte do manuscrito de origem nem uma repetição do sermão inteiro.
 
+No fluxo completo, cada manuscrito Talbot deve ter extensão para aproximadamente 50 minutos de fala, com duração e estimativa documentadas. A ficha deve registrar a bottom line final e, quando pertinente, as decisões de lapidação baseadas no livro anexado e nas referências da skill. A auditoria deve rejeitar frases genéricas, clichês, slogans artificiais e manuscritos que sejam apenas esboços.
+
 ## 14. Consolidação da entrega
 
 Salve **um único arquivo `.md`** com todas as seções: estudo e fontes, preparação e manuscrito Haddon, mapa e todos os manuscritos Talbot. Use sumário interno e títulos claros. O pedido explícito de arquivo único governa o formato nesta integração; siga o destino vigente da skill Haddon, salvo destino informado pelo usuário. Não entregue links ou arquivos separados em lugar de conteúdo, nem finalize antes de reunir e conferir todos os sermões completos. Conteúdo provisório ou interrompido continua identificado como parcial.
@@ -110,6 +112,8 @@ Verifique resultados observáveis, não só presença de títulos:
 14. O Haddon completo foi produzido após o estudo, com carregamento efetivo da skill de Haddon Robinson e fidelidade às conclusões exegéticas e aos limites declarados?
 15. A skill Talbot Davis e suas referências foram carregadas? Cada um dos três ou quatro pontos principais Haddon corresponde a um sermão Talbot integral, sem contar subpontos, introdução ou conclusão como encontros extras?
 16. Cada Talbot tem uma única frase governante, descoberta bíblica, percurso próprio, aplicações e conclusão escritos? O texto foi recomposto, em vez de apenas recortado ou reduzido a plano de série?
-17. O único `.md` salvo contém o estudo, as fontes, o Haddon completo, o mapa e todos os sermões Talbot completos, sem placeholders, remissões externas substitutivas ou encontros faltantes?
+17. Cada manuscrito Talbot foi dimensionado para aproximadamente 50 minutos de fala, com estimativa coerente e texto suficiente?
+18. As bottom lines são próprias, não clichês, e mostram lapidação orientada pelas recomendações do livro anexado?
+19. O único `.md` salvo contém o estudo, as fontes, o Haddon completo, o mapa e todos os sermões Talbot completos, sem placeholders, remissões externas substitutivas ou encontros faltantes?
 
 Corrija o estudo antes de entregá-lo quando uma falha afetar a conclusão. Uma lista marcada sem evidências não substitui revisão.

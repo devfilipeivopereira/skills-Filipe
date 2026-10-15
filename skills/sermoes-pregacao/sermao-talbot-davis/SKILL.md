@@ -85,7 +85,11 @@ Use frases respiradas, linguagem da audiência, transições naturais e imagens 
 
 Mantenha a redação exata do refrão, sem transformar cada retorno em um novo slogan. Abertura, descoberta, aplicações e conclusão devem trabalhar pela mesma ideia.
 
-Se houver duração solicitada, ajuste a extensão e indique que a duração é estimada. Para estimar, pode-se dividir a contagem de palavras pelo ritmo de fala escolhido e somar pausas e leituras; esse cálculo é uma convenção de produção, não uma fórmula de Davis. Não prometa trinta minutos para um manuscrito de poucos parágrafos.
+Se houver duração solicitada, ajuste a extensão e indique que a duração é estimada. No fluxo integrado de estudo indutivo → Haddon Robinson → série Talbot Davis, cada manuscrito Talbot deve ser escrito para aproximadamente **50 minutos de fala**, salvo duração diferente solicitada expressamente pelo usuário. Planeje a extensão com base em ritmo oral plausível, pausas, leitura bíblica e momentos de resposta; um manuscrito de 50 minutos exige vários milhares de palavras, não um esboço expandido. Informe a contagem aproximada e o cálculo usado, sem tratar a estimativa como fórmula de Davis.
+
+As **bottom lines/frases centrais** devem ser descobertas e lapidadas para aquela mensagem. Não use clichês religiosos, slogans genéricos, rimas artificiais ou frases intercambiáveis entre encontros. Trabalhe contraste, cadência, jogo de palavras, preposições e imagens somente quando forem naturais em português e fiéis ao texto. Aplique as recomendações do livro fornecido pelo usuário e das referências desta skill; não atribua ao livro regras que ele não estabelece. Cada sermão deve ter uma frase governante própria, memorável sem ser banal, retomada com variação funcional ao longo do manuscrito.
+
+Não reduza a exigência de 50 minutos por produzir uma série longa. Se uma restrição impedir um manuscrito desse porte, declare a entrega parcial e continue até completar o texto; não apresente sinopse, esboço ou promessa de expansão futura como sermão completo.
 
 ## Forma da entrega
 
@@ -110,6 +114,8 @@ Corrija problemas materiais antes de mostrar o resultado. Não use uma nota num�
 - **Experiência:** há algo que se possa reconhecer, imaginar, sentir ou praticar?
 - **Evangelho:** Cristo e a ação do Espírito sustentam a transformação?
 - **Oralidade:** o manuscrito soa falável e cabe aproximadamente no tempo?
+- **Duração:** no fluxo integrado, cada manuscrito alcança aproximadamente 50 minutos, com extensão e estimativa documentadas?
+- **Frase central:** a bottom line é específica, não clichê, foi lapidada com as recomendações do livro e governa uma única mensagem?
 - **Integridade:** testemunhos, citações, dados e inferências estão apresentados com honestidade?
 - **Ocasião:** o funeral segue pessoa antes da promessa, expressão e permissão? A série preserva a identidade local?
 
