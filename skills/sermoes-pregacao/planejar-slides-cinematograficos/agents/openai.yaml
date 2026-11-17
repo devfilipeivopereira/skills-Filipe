@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slides Cinematográficos para Sermões"
+  short_description: "Planeje cenas, textos e capas marcantes para seus sermões"
+  default_prompt: "Use $planejar-slides-cinematograficos para planejar os slides do sermão anexo, com imagens cinematográficas, pouco texto, capa marcante e notas do apresentador."

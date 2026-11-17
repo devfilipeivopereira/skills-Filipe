@@ -27,7 +27,7 @@ Biblioteca organizada de skills locais encontradas nas pastas de IAs do notebook
 | editorial-ebooks-kdp | 11 |
 | notion-produtividade | 14 |
 | palestras-motivacao | 34 |
-| sermoes-pregacao | 63 |
+| sermoes-pregacao | 64 |
 | sistema-agentes | 24 |
 
 
@@ -55,6 +55,14 @@ A skill `estudo-biblico-indutivo` conduz o estudo de passagens e livros pelo mé
 - [Documentação](docs/skills/sermoes-pregacao/estudo-biblico-indutivo/README.md)
 - [Pacote com EPUB](packages/sermoes-pregacao/estudo-biblico-indutivo.zip)
 - [Livro de referência](skills/sermoes-pregacao/estudo-biblico-indutivo/references/fontes/inductive-bible-study-bauer-traina.epub)
+
+## Planejar slides cinematográficos
+
+A skill `planejar-slides-cinematograficos` planeja imagens e slides de sermões, mensagens bíblicas e apresentações pastorais. Usa fotografia cinematográfica realista, pouco texto, capa em caixa alta com tipografia diferenciada, prompts completos e notas do apresentador. Preserva a mensagem e a frase central, e se adapta a sermões de um ponto e a outras estruturas.
+
+- [Skill](skills/sermoes-pregacao/planejar-slides-cinematograficos/SKILL.md)
+- [Pacote instalável](packages/sermoes-pregacao/planejar-slides-cinematograficos.zip)
+- [Documentação](docs/skills/sermoes-pregacao/planejar-slides-cinematograficos/README.md)
 
 ## Como regenerar
 

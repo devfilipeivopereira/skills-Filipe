@@ -5,8 +5,8 @@
     "counts":  {
                    "scanned_roots":  10,
                    "discovered_candidates":  397,
-                   "selected_packages":  171,
-                   "generated_zips":  171
+                   "selected_packages":  172,
+                   "generated_zips":  172
                },
     "source_roots":  [
                          {
@@ -101,7 +101,7 @@
                        },
                        {
                            "category":  "sermoes-pregacao",
-                           "count":  63
+                           "count":  64
                        },
                        {
                            "category":  "sistema-agentes",
@@ -3054,6 +3054,22 @@
                        "duplicate_source_count": 1,
                        "duplicate_sources": [
                            "C:\\DEV\\SERMÃO 1 PONTO - ANDY\\skills\\sermao-talbot-davis"
+                       ]
+                   },
+                   {
+                       "package_id": "planejar-slides-cinematograficos",
+                       "skill_name": "planejar-slides-cinematograficos",
+                       "category": "sermoes-pregacao",
+                       "description": "Planejar imagens e slides de serm\u00f5es, mensagens b\u00edblicas e apresenta\u00e7\u00f5es pastorais com fotografia cinematogr\u00e1fica realista, pouco texto, capa em caixa alta com tipografia diferenciada, prompts completos e notas do apresentador. Usar quando o usu\u00e1rio pedir planejamento visual, roteiro de slides, storyboard, imagens para uma prega\u00e7\u00e3o ou uma apresenta\u00e7\u00e3o no estilo de capas de serm\u00f5es. Adaptar a serm\u00f5es de um ponto e a outras estruturas, preservando a mensagem e a frase central.",
+                       "source_kind": "Claude local",
+                       "namespace": "claude",
+                       "source_path": "anthropic-skills:planejar-slides-cinematograficos",
+                       "copied_path": "skills/sermoes-pregacao/planejar-slides-cinematograficos",
+                       "zip_path": "packages/sermoes-pregacao/planejar-slides-cinematograficos.zip",
+                       "skill_md_sha256": "f04d069a99e63b3d489f117160c2e5b8bf9317f8d1c8ea363dad42edf455e793",
+                       "duplicate_source_count": 1,
+                       "duplicate_sources": [
+                           "anthropic-skills:planejar-slides-cinematograficos"
                        ]
                    },
                    {

@@ -2,7 +2,7 @@
 
 Gerado em: `2026-10-08T10:00:38.6559820-03:00`
 
-Total de skills documentadas: **171**
+Total de skills documentadas: **172**
 
 ## Como usar este indice
 
@@ -21,7 +21,7 @@ Total de skills documentadas: **171**
 | Editorial, Ebooks e KDP (`editorial-ebooks-kdp`) | 11 | `skills/editorial-ebooks-kdp` |
 | Notion e Produtividade (`notion-produtividade`) | 14 | `skills/notion-produtividade` |
 | Palestras e Motivacao (`palestras-motivacao`) | 34 | `skills/palestras-motivacao` |
-| Sermoes e Pregacao (`sermoes-pregacao`) | 63 | `skills/sermoes-pregacao` |
+| Sermoes e Pregacao (`sermoes-pregacao`) | 64 | `skills/sermoes-pregacao` |
 | Sistema e Agentes (`sistema-agentes`) | 24 | `skills/sistema-agentes` |
 
 ## Tabela geral
@@ -166,6 +166,7 @@ Total de skills documentadas: **171**
 | `generate-timothy-keller-sermons` | `sermoes-pregacao` | Codex local / `local` | 8 | [13,3 KB](../packages/sermoes-pregacao/generate-timothy-keller-sermons.zip) | [abrir](skills/sermoes-pregacao/generate-timothy-keller-sermons/README.md) | Generate sermon outlines and full sermon manuscripts using Timothy Keller's authentic preaching method, including text-first exposition, apologetic engagement with secular skept... |
 | `generate-timothy-keller-sermons--v2` | `sermoes-pregacao` | Gemini local / `gemini` | 8 | [12,8 KB](../packages/sermoes-pregacao/generate-timothy-keller-sermons--v2.zip) | [abrir](skills/sermoes-pregacao/generate-timothy-keller-sermons--v2/README.md) | Generate sermon outlines and full sermon manuscripts using Timothy Keller's authentic preaching method, including text-first exposition, apologetic engagement with secular skept... |
 | `notion-roteiros-videos-cristaos` | `sermoes-pregacao` | Codex local / `local` | 3 | [4,7 KB](../packages/sermoes-pregacao/notion-roteiros-videos-cristaos.zip) | [abrir](skills/sermoes-pregacao/notion-roteiros-videos-cristaos/README.md) | Use when the user wants to generate and insert five Christian short-video script ideas into the `🎬 Roteiros de Vídeo` Notion database, especially practical day-to-day themes fo... |
+| `planejar-slides-cinematograficos` | `sermoes-pregacao` | Claude skills sincronizadas / `claude` | 5 | [14,5 KB](../packages/sermoes-pregacao/planejar-slides-cinematograficos.zip) | [abrir](skills/sermoes-pregacao/planejar-slides-cinematograficos/README.md) | Planeja imagens e slides de sermões com fotografia cinematográfica realista, pouco texto, capa em caixa alta, prompts completos e notas do apresentador. |
 | `prepare-bob-smiley-messages` | `sermoes-pregacao` | Codex local / `local` | 7 | [10,3 KB](../packages/sermoes-pregacao/prepare-bob-smiley-messages.zip) | [abrir](skills/sermoes-pregacao/prepare-bob-smiley-messages/README.md) | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contex... |
 | `prepare-bob-smiley-messages--v2` | `sermoes-pregacao` | Gemini local / `gemini` | 7 | [9,8 KB](../packages/sermoes-pregacao/prepare-bob-smiley-messages--v2.zip) | [abrir](skills/sermoes-pregacao/prepare-bob-smiley-messages--v2/README.md) | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contex... |
 | `sermao-de-1-ponto-andy-stanley-talbot-davis` | `sermoes-pregacao` | Codex local / `local` | 13 | [64,6 KB](../packages/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis.zip) | [abrir](skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis/README.md) | Criar, revisar e preparar sermões de um ponto segundo Andy Stanley e Lane Jones, aprofundados por Talbot Davis em Simplify the Message: Multiply the Impact. Use para preparar, r... |
@@ -363,6 +364,7 @@ Total de skills documentadas: **171**
 - [generate-timothy-keller-sermons](skills/sermoes-pregacao/generate-timothy-keller-sermons/README.md) - Generate sermon outlines and full sermon manuscripts using Timothy Keller's authentic preaching method, including text-first exposition, apologetic engagement with secular skepticism, the younger-brother and elder-bro...
 - [generate-timothy-keller-sermons--v2](skills/sermoes-pregacao/generate-timothy-keller-sermons--v2/README.md) - Generate sermon outlines and full sermon manuscripts using Timothy Keller's authentic preaching method, including text-first exposition, apologetic engagement with secular skepticism, the younger-brother and elder-bro...
 - [notion-roteiros-videos-cristaos](skills/sermoes-pregacao/notion-roteiros-videos-cristaos/README.md) - Use when the user wants to generate and insert five Christian short-video script ideas into the `🎬 Roteiros de Vídeo` Notion database, especially practical day-to-day themes for Christian leaders or members with `Tem...
+- [planejar-slides-cinematograficos](skills/sermoes-pregacao/planejar-slides-cinematograficos/README.md) - Planeja imagens e slides de sermões com fotografia cinematográfica realista, pouco texto, capa em caixa alta, prompts completos e notas do apresentador.
 - [prepare-bob-smiley-messages](skills/sermoes-pregacao/prepare-bob-smiley-messages/README.md) - Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contextual data, and a biblical punch ending t...
 - [prepare-bob-smiley-messages--v2](skills/sermoes-pregacao/prepare-bob-smiley-messages--v2/README.md) - Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous story, practical bridge, contextual data, and a biblical punch ending t...
 - [sermao-de-1-ponto-andy-stanley-talbot-davis](skills/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis/README.md) - Criar, revisar e preparar sermões de um ponto segundo Andy Stanley e Lane Jones, aprofundados por Talbot Davis em Simplify the Message: Multiply the Impact. Use para preparar, reestruturar, enxugar ou avaliar pregação...

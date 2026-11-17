@@ -2,7 +2,7 @@
 
 Gerado em: `2026-10-08T10:00:38.6559820-03:00`
 
-Total de pacotes: **171**
+Total de pacotes: **172**
 
 | Pacote | Skill | Categoria | Origem | Zip | Descricao |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@ Total de pacotes: **171**
 | `generate-timothy-keller-sermons` | generate-timothy-keller-sermons | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/generate-timothy-keller-sermons.zip` | Generate sermon outlines and full sermon manuscripts using Timothy Keller's authentic preaching method, including text-first exposition, apologetic... |
 | `generate-timothy-keller-sermons--v2` | generate-timothy-keller-sermons | `sermoes-pregacao` | Gemini local / `gemini` | `packages/sermoes-pregacao/generate-timothy-keller-sermons--v2.zip` | Generate sermon outlines and full sermon manuscripts using Timothy Keller's authentic preaching method, including text-first exposition, apologetic... |
 | `notion-roteiros-videos-cristaos` | notion-roteiros-videos-cristaos | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/notion-roteiros-videos-cristaos.zip` | Use when the user wants to generate and insert five Christian short-video script ideas into the `🎬 Roteiros de Vídeo` Notion database, especially ... |
+| `planejar-slides-cinematograficos` | planejar-slides-cinematograficos | `sermoes-pregacao` | Claude skills sincronizadas / `claude` | `packages/sermoes-pregacao/planejar-slides-cinematograficos.zip` | Planeja imagens e slides de sermões com fotografia cinematográfica realista, pouco texto, capa em caixa alta, prompts completos e notas do apresentador. |
 | `prepare-bob-smiley-messages` | prepare-bob-smiley-messages | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/prepare-bob-smiley-messages.zip` | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous s... |
 | `prepare-bob-smiley-messages--v2` | prepare-bob-smiley-messages | `sermoes-pregacao` | Gemini local / `gemini` | `packages/sermoes-pregacao/prepare-bob-smiley-messages--v2.zip` | Prepare message outlines and full message manuscripts using Bob Smiley's humor-and-narrative communication method, including a real-life humorous s... |
 | `sermao-de-1-ponto-andy-stanley-talbot-davis` | sermao-de-1-ponto-andy-stanley-talbot-davis | `sermoes-pregacao` | Codex local / `local` | `packages/sermoes-pregacao/sermao-de-1-ponto-andy-stanley-talbot-davis.zip` | Criar, revisar e preparar sermões de um ponto segundo Andy Stanley e Lane Jones, aprofundados por Talbot Davis em Simplify the Message: Multiply th... |
